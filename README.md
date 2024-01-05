@@ -97,10 +97,6 @@ npm start
 
 * <a href="https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 ---------
-
-## `Colaboradora` 
-<a href="https://github.com/Sopiix"><img src="https://github.com/Sopiix.png" width="200" height="200" alt="Sopi<3"/></a>
-
 ---------
 <div align="center">
   <h1 align="center">Editor y Propietario de la Bot</h1>
