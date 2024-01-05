@@ -1,3 +1,37 @@
+# `🧿𝐃𝐘𝐋𝐀𝐍-𝐁𝐎𝐓🧿`
+
+> <b>🌸VERSIÓN 1.1.0</b>
+<p align="center"> 
+<a href="views/Pre Bot Publi.png"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=AdrielBot-MD++🌸; DISFRUTA+EL+REPOSITORIO.+%F0%9F%92%96" height="90px"></a> 
+</p>
+
+<p align="center">
+<img src="views/Pre Bot Publi.png" alt="GataBot-MD" width="900"/>
+</p>
+
+### ▢`🏓𝘿𝙐𝘿𝘼𝙎 𝙎𝙊𝘽𝙍𝙀 𝙀𝙇 𝘽𝙊𝙏?🍁`
+
+<a href="https://api.whatsapp.com/send/?phone=59176181985&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+### ▢`🍀𝙎𝙄𝙂𝙐𝙀𝙉𝙊𝙎 𝙀𝙉 𝙉𝙐𝙀𝙎𝙏𝙍𝙊 𝙄𝙂🍀`
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Sígueme+En+Instagram;No+seas+malx%3A3;)
+<a href="https://www.instagram.com/usxr._.karim?igsh=OGY1bGE1d3EyY212" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM_DEL_CREADOR-25D366?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+
+### ▢`🐼𝙂𝙍𝙐𝙋𝙊 𝘿𝙀 𝙑𝙀𝙉𝙏𝘼𝙎 𝘿𝙀𝙇 𝘽𝙊𝙏🐼`
+
+<a href="https://chat.whatsapp.com/KV5zRq4E5bP3xOBuUTSizP" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+> LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
+
+### ▢`—◉ 🤖𝘽𝙊𝙏 𝙊𝙁𝙄𝘾𝙄𝘼𝙇🤖`
+
+<a href="https://api.whatsapp.com/send/?phone=59176818194&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/prueba.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+ > NO SPAMEAR COMANDOS
+
+
 <h1 align="center">‧ Monki-Bot - MD 🙈 ‧
 </p>
 <p>
