@@ -103,4 +103,4 @@ npm start
 
 <a href="https://github.com/Karim-off"><img src="https://github.com/Karim-off.png" width="300" height="300" alt="Daniel🇦🇱"/></a>
 
-`© MonkiBot / By Daniel 🇦🇱`
+`© DylanBot / By Karim 🤴`
