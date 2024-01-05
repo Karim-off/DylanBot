@@ -105,6 +105,6 @@ npm start
 <div align="center">
   <h1 align="center">Editor y Propietario de la Bot</h1>
 
-<a href="https://github.com/DanielDiod"><img src="https://github.com/DanielDiod.png" width="300" height="300" alt="Daniel🇦🇱"/></a>
+<a href="https://github.com/Karim-off"><img src="https://github.com/Karim-off.png" width="300" height="300" alt="Daniel🇦🇱"/></a>
 
 `© MonkiBot / By Daniel 🇦🇱`
