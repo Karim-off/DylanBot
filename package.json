@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
 
-"homepage": "https://github.com/DanielDiod/DokiBot",
+"homepage": "https://github.com/Karim-off/DylanBot",
 "author": {
-"name": "DanielDiod" },
+"name": "Karim-off" },
 
 "repository": {
 "type": "git",
-"url": "git+https://github.com/DanielDiod/DokiBot.git" },
+"url": "git+https://github.com/Karim-off/DylanBot.git" },
 
 "bugs": {
-"url": "https://github.com/DanielDiod/DokiBot/issues" },
+"url": "https://github.com/Karim-off/DylanBot/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "^6.5.0",
