@@ -77,18 +77,18 @@ let adReply = { fileLength: fsizedoc, seconds: fsizedoc, contextInfo: { forwardi
 
 
 let menu = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *𝐃𝐘𝐋𝐀𝐍-𝐁𝐎𝐓* —◉
+║    ◉— 𝐃𝐘𝐋𝐀𝐍-𝐁𝐎𝐓 —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *𝗛ola, ${taguser}*
+║➤ 𝙃𝙊𝙇𝘼, ${taguser}
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║🤴ㅤ» 𝐎𝐰𝐧𝐞𝐫: wa.me/59176181985
-║🫂ㅤ» 𝐂𝐫𝐞𝐚𝐝𝐨𝐫:𝐾𝑎𝑟𝑖𝑚
-║🛎ㅤ» 𝐈𝐠:@usxr._.karim
+║🤴»𝐎𝐰𝐧𝐞𝐫: wa.me/59176181985
+║🫂»𝐂𝐫𝐞𝐚𝐝𝐨𝐫:𝐾𝑎𝑟𝑖𝑚
+║🛎»𝐈𝐠:@usxr._.karim
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Fecha:* ${date}
-║➤ *Tiempo activo:* ${uptime}
-║➤ *Usuarios regs:* ${rtotalreg}
-║➤ *Usuarios totales:* ${rtotal}
+║➤ 𝙵𝙴𝙲𝙷𝙰: ${date}
+║➤ 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}
+║➤ 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂 𝚁𝙴𝙶𝚂: ${rtotalreg}
+║➤ 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂 𝚃𝙾𝚃𝙰𝙻𝙴𝚂: ${rtotal}
 ╰═══╡✯✯✯✯✯✯✯✯✯╞═══╯
 
 ┏━━━━━━━━━━━━━━━━┓
@@ -100,11 +100,6 @@ let menu = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
 ┣🪙 » 𝚃𝚘𝚔𝚎𝚗𝚜 : ${joincount}
 ┣🕹 » 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚒𝚊 : ${exp}
 ┣⚜ » 𝚁𝚊𝚗𝚐𝚘 : ${role}
-┗━━━━━━━━━━━━━━━━┛
-
-┏━━━━━━━━━━━━━━━━┓ 
-
-ㅤ
 ┗━━━━━━━━━━━━━━━━┛
 
 ┏━━━━𝐉𝐔𝐄𝐆𝐎𝐒 ⛅━━━━┓ 
@@ -163,7 +158,7 @@ let menu = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
 ┣🔴 ${usedPrefix}disable
 ┗━━━━━━━━━━━━━━━━━━━━┛
 
-┏━━━━𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒━━━━━┓ 
+┏━━━𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒━━━━┓ 
 ┣📥 ${usedPrefix}play <texto>
 ┣📥 ${usedPrefix}play.1 <texto>
 ┣📥 ${usedPrefix}play.2 <texto>
@@ -201,9 +196,9 @@ let menu = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
 ┣📥 ${usedPrefix}igstalk <nombre de usuario>
 ┣📥 ${usedPrefix}igstory <nombre de usuario>
 ┣📥 ${usedPrefix}tiktokstalk *<username>*
-┗━━━━━━━━━━━━━━━━━┛
+┗━━━━━━━━━━━━━━━┛
 
-┏━━━━━𝐆𝐑𝐔𝐏𝐎𝐒 ⛅━━━━━┓ 
+┏━━━━𝐆𝐑𝐔𝐏𝐎𝐒 ⛅━━━┓ 
 ┣💌 ${usedPrefix}add <numero>
 ┣💌 ${usedPrefix}kick <@tag>
 ┣💌 ${usedPrefix}grupo <abrir / cerrar>
@@ -227,9 +222,9 @@ let menu = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
 ┣💌 ${usedPrefix}fantasmas
 ┣💌 ${usedPrefix}destraba
 ┣💌 ${usedPrefix}setpp <imagen>
-┗━━━━━━━━━━━━━━━━━━━━┛
+┗━━━━━━━━━━━━━━━━━┛
 
-┏━━━𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒━━━━━┓ 
+┏━━━𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒━━━┓ 
 ┣🎭 ${usedPrefix}robar texto
 ┣🎭 ${usedPrefix}wm texto
 ┣🎭 ${usedPrefix}toimg <sticker>
@@ -239,9 +234,9 @@ let menu = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
 ┣🎭 ${usedPrefix}tovideo <sticker>
 ┣🎭 ${usedPrefix}tourl <video / imagen / audio>
 ┣🎭 ${usedPrefix}tts es <texto>
-┗━━━━━━━━━━━━━━━━━━━━┛
+┗━━━━━━━━━━━━━━━━━━┛
 
-┏━━𝐄𝐅𝐄𝐂𝐓𝐎𝐒 𝐘 𝐋𝐎𝐆𝐎𝐒━━━━┓ 
+┏━━𝐄𝐅𝐄𝐂𝐓𝐎𝐒 𝐘 𝐋𝐎𝐆𝐎𝐒━━┓ 
 ┣🖋️ ${usedPrefix}mensajefalso <nombre|mensaje>
 ┣🖋️ ${usedPrefix}phmaker <opcion> <imagen>
 ┣🖋️ ${usedPrefix}logos <efecto> <texto>
@@ -254,15 +249,15 @@ let menu = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
 ┣🖋️ ${usedPrefix}itssostupid
 ┣🖋️ ${usedPrefix}pixelar
 ┣🖋️ ${usedPrefix}blur
-┗━━━━━━━━━━━━━━━━━━━━┛
+┗━━━━━━━━━━━━━━━━━━┛
 
-┏━━━𝐄𝐅𝐄𝐂𝐓𝐎𝐒 𝐘 𝐋𝐎𝐆𝐎𝐒━━━┓ 
+┏━━𝐄𝐅𝐄𝐂𝐓𝐎𝐒 𝐘 𝐋𝐎𝐆𝐎𝐒━━┓ 
 ┣🥀 ${usedPrefix}piropo
 ┣🥀 ${usedPrefix}consejo
 ┣🥀 ${usedPrefix}fraseromantica
-┗━━━━━━━━━━━━━━━━━━━━┛
+┗━━━━━━━━━━━━━━━━━━┛
 
-┏━━━━𝐁𝐔𝐒𝐂𝐀𝐃𝐎𝐑𝐄𝐒━━━━━━━┓ 
+┏━━𝐁𝐔𝐒𝐂𝐀𝐃𝐎𝐑𝐄𝐒━━━━┓ 
 ┣🔍 ${usedPrefix}stickersearch <texto>
 ┣🔍 ${usedPrefix}stickersearch2 <texto>
 ┣🔍 ${usedPrefix}xnxxsearch <texto>
@@ -276,77 +271,75 @@ let menu = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
 ┣🔍 ${usedPrefix}apkmody <texto>
 ┣🔍 ${usedPrefix}uapkpro <texto>
 ┣🔍 ${usedPrefix}playstore <texto>
-┗━━━━━━━━━━━━━━━━━━━━┛
+┗━━━━━━━━━━━━━━━━┛
 
-• ━━━━ • • ━━━━ • • ━━━━ •
+┏━━𝐇𝐄𝐑𝐑𝐀𝐌𝐈𝐄𝐍𝐓𝐀𝐒━━━┓ 
+┣🛠️ ${usedPrefix}spamwa <numero|texto|cantidad>
+┣🛠️ ${usedPrefix}tamaño <cantidad> <imagen / video>
+┣🛠️ ${usedPrefix}clima <país> <ciudad>
+┣🛠️ ${usedPrefix}encuesta <texto1|texto2...>
+┣🛠️ ${usedPrefix}afk <motivo>
+┣🛠️ ${usedPrefix}ocr <responde a imagen>
+┣🛠️ ${usedPrefix}acortar <enlace / link / url>
+┣🛠️ ${usedPrefix}calc <operacion math>
+┣🛠️ ${usedPrefix}del <mensaje>
+┣🛠️ ${usedPrefix}whatmusic <audio>
+┣🛠️ ${usedPrefix}readqr <imagen (QR)>
+┣🛠️ ${usedPrefix}qrcode <texto>
+┣🛠️ ${usedPrefix}readmore <texto1| texto2>
+┣🛠️ ${usedPrefix}styletext <texto>
+┣🛠️ ${usedPrefix}traducir <texto>
+┣🛠️ ${usedPrefix}zoom <texto>
+┣🛠️ ${usedPrefix}nowa <numero>
+┣🛠️ ${usedPrefix}horario
+┗━━━━━━━━━━━━━━━━━┛
 
-┌─── 𝐇𝐄𝐑𝐑𝐀𝐌𝐈𝐄𝐍𝐓𝐀𝐒 ⛅
-🛠️ ${usedPrefix}spamwa <numero|texto|cantidad>
-🛠️ ${usedPrefix}tamaño <cantidad> <imagen / video>
-🛠️ ${usedPrefix}clima <país> <ciudad>
-🛠️ ${usedPrefix}encuesta <texto1|texto2...>
-🛠️ ${usedPrefix}afk <motivo>
-🛠️ ${usedPrefix}ocr <responde a imagen>
-🛠️ ${usedPrefix}acortar <enlace / link / url>
-🛠️ ${usedPrefix}calc <operacion math>
-🛠️ ${usedPrefix}del <mensaje>
-🛠️ ${usedPrefix}whatmusic <audio>
-🛠️ ${usedPrefix}readqr <imagen (QR)>
-🛠️ ${usedPrefix}qrcode <texto>
-🛠️ ${usedPrefix}readmore <texto1| texto2>
-🛠️ ${usedPrefix}styletext <texto>
-🛠️ ${usedPrefix}traducir <texto>
-🛠️ ${usedPrefix}zoom <texto>
-🛠️ ${usedPrefix}nowa <numero>
-🛠️ ${usedPrefix}horario
-• ━━━━ • • ━━━━ • • ━━━━ •
+┏━━━━𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐀𝐒━━━━━┓ 
+┣🧾 ${usedPrefix}verificar
+┣🧾 ${usedPrefix}unreg *<numero de serie>
+┣🧾 ${usedPrefix}claim
+┣🧾 ${usedPrefix}lb
+┣🧾 ${usedPrefix}perfil
+┣🧾 ${usedPrefix}minar
+┣🧾 ${usedPrefix}buy
+┣🧾 ${usedPrefix}balance
+┣🧾 ${usedPrefix}myns
+┣🧾 ${usedPrefix}work
+┣🧾 ${usedPrefix}buyall
+┣🧾 ${usedPrefix}transfer *<tipo> <cantidad> <@tag>
+┗━━━━━━━━━━━━━━━━━━┛
 
-┌─── 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐀𝐒 ⛅
-🧾 ${usedPrefix}verificar
-🧾 ${usedPrefix}unreg *<numero de serie>
-🧾 ${usedPrefix}claim
-🧾 ${usedPrefix}lb
-🧾 ${usedPrefix}perfil
-🧾 ${usedPrefix}minar
-🧾 ${usedPrefix}buy
-🧾 ${usedPrefix}balance
-🧾 ${usedPrefix}myns
-🧾 ${usedPrefix}work
-🧾 ${usedPrefix}buyall
-🧾 ${usedPrefix}transfer *<tipo> <cantidad> <@tag>
-• ━━━━ • • ━━━━ • • ━━━━ •
-
-┌─── 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 ⛅
-🌟 ${usedPrefix}sticker <responder a imagen o video>
-🌟 ${usedPrefix}sticker <enlace / link / url>
-🌟 ${usedPrefix}s <responder a imagen o video>
-🌟 ${usedPrefix}s <enlace / link / url>
-🌟 ${usedPrefix}sfull <imagen o video>
-🌟 ${usedPrefix}emojimix <emoji 1>&<emoji 2>
-🌟 ${usedPrefix}scircle <imagen>
-🌟 ${usedPrefix}sremovebg <imagen>
-🌟 ${usedPrefix}semoji <tipo> <emoji>
-🌟 ${usedPrefix}attp <texto>
-🌟 ${usedPrefix}attp2 <texto>
-🌟 ${usedPrefix}attp3 <texto>
-🌟 ${usedPrefix}ttp <texto>
-🌟 ${usedPrefix}ttp2 <texto>
-🌟 ${usedPrefix}ttp3 <texto>
-🌟 ${usedPrefix}ttp4 <texto>
-🌟 ${usedPrefix}ttp5 <texto>
-🌟 ${usedPrefix}pat <@tag>
-🌟 ${usedPrefix}slap <@tag>
-🌟 ${usedPrefix}kiss <@tag>
-🌟 ${usedPrefix}dado
-🌟 ${usedPrefix}wm *<packname> <author>
-🌟 ${usedPrefix}stickermarker *<efecto> <imagen>
-🌟 ${usedPrefix}stickerfilter *<efecto> <imagen>
-🌟 ${usedPrefix}palmaditas | pat @tag
-🌟 ${usedPrefix}bofetada | slap @tag
-🌟 ${usedPrefix}golpear @tag
-🌟 ${usedPrefix}besar | kiss @tag
-🌟 ${usedPrefix}alimentar | food @tag
-• ━━━━ • • ━━━━ • • ━━━━ •`.trim()
+┏━━━━━𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒━━━━━━┓ 
+┣🌟 ${usedPrefix}sticker <responder a imagen o video>
+┣🌟 ${usedPrefix}sticker <enlace / link / url>
+┣🌟 ${usedPrefix}s <responder a imagen o video>
+┣🌟 ${usedPrefix}s <enlace / link / url>
+┣🌟 ${usedPrefix}sfull <imagen o video>
+┣🌟 ${usedPrefix}emojimix <emoji 1>&<emoji 2>
+┣🌟 ${usedPrefix}scircle <imagen>
+┣🌟 ${usedPrefix}sremovebg <imagen>
+┣🌟 ${usedPrefix}semoji <tipo> <emoji>
+┣🌟 ${usedPrefix}attp <texto>
+┣🌟 ${usedPrefix}attp2 <texto>
+┣🌟 ${usedPrefix}attp3 <texto>
+┣🌟 ${usedPrefix}ttp <texto>
+┣🌟 ${usedPrefix}ttp2 <texto>
+┣🌟 ${usedPrefix}ttp3 <texto>
+┣🌟 ${usedPrefix}ttp4 <texto>
+┣🌟 ${usedPrefix}ttp5 <texto>
+┣🌟 ${usedPrefix}pat <@tag>
+┣🌟 ${usedPrefix}slap <@tag>
+┣🌟 ${usedPrefix}kiss <@tag>
+┣🌟 ${usedPrefix}dado
+┣🌟 ${usedPrefix}wm *<packname> <author>
+┣🌟 ${usedPrefix}stickermarker *<efecto> <imagen>
+┣🌟 ${usedPrefix}stickerfilter *<efecto> <imagen>
+┣🌟 ${usedPrefix}palmaditas | pat @tag
+┣🌟 ${usedPrefix}bofetada | slap @tag
+┣🌟 ${usedPrefix}golpear @tag
+┣🌟 ${usedPrefix}besar | kiss @tag
+┣🌟 ${usedPrefix}alimentar | food @tag
+┗━━━━━━━━━━━━━━━━━━┛`.trim()
     conn.sendFile(m.chat, pp, 'lp.jpg', menu, m, false, { contextInfo: { mentionedJid }})
 	
 } catch (e) {
