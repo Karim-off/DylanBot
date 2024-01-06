@@ -22,23 +22,17 @@ import fetch from 'node-fetch';
      const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document']; 
      const document = doc[Math.floor(Math.random() * doc.length)]; 
      const str = `┏━━━━━━━━━━━━━━━━━━ 
- ┣┅⟣✦ *Monki Bot 🐒*
+ ┣┅⟣✦ *Dylan Bot 🦁*
  ┣┅⟣✦ *Colaboradores* 
  ┗━━━━━━━━━━━━━━━━━━┛ 
  ━━━━━━━━━━━━━━━━━━━━ 
- 🖋️ *Instagram ofc de los colaboradores 📸*
+ 🖋️ *Instagram ofc📸*
   
- 🖋️ *Creador Ofc|Daniel 🇦🇱:* https://www.instagram.com/Jxtxn17/ 
-  
- 🖋️ *Colaboradora|Sopixx:* https://www.instagram.com/sophziix
-  
- 🖋️ *Colaborador|Raul:* https://www.instagram.com/bu_2348
+ 🖋️ *Creador Ofc|karim:* https://www.instagram.com/usxr._.karim?igsh=OGY1bGE1d3EyY212 
    
  *📝Numeros Oficiales*
  
- 🖋️ *Daniel 🇦🇱:* https://Wa.me/51907913096
- 🖋️ *Sopixx:* https://Wa.me/51977835959
- 🖋️ *Raul:* https://Wa.me/528683088045
+ 🖋️ *Karim:* https://Wa.me/59176181985
  ┗━━━━━━━━━━━━━━━━━━┛ 
   `.trim(); 
      if (m.isGroup) { 
