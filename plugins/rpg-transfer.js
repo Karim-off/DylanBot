@@ -15,7 +15,7 @@ let lol = `💱 *TRANSFERENCIA* 💱
 ┃ ✅ *RECURSOS DISPONIBLES*
 ┃──────────────
 ┃ limit *= Diamantes* 💎
-┃ money *= LoliCoins* 🐈
+┃ money *= DylanCoins* 🐈
 ┃ exp *= Experiencia* ⚡
 ╰━━━━━━━━━━━━━━━━━━ ღ 
 `.trim()
