@@ -76,203 +76,208 @@ let fsizedoc = '1'.repeat(10)
 let adReply = { fileLength: fsizedoc, seconds: fsizedoc, contextInfo: { forwardingScore: fsizedoc, externalAdReply: { showAdAttribution: true, title: wm, body: '👋 ' + username, mediaUrl: ig, description: 'Hola', previewType: 'PHOTO', thumbnail: await(await fetch(global.img)).buffer(), sourceUrl: redesMenu.getRandom() }}}
 
 
-let menu = `⌜ *${wm}* ⌟  
+let menu = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
+║    ◉— *𝐃𝐘𝐋𝐀𝐍-𝐁𝐎𝐓* —◉
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
+║➤ *𝗛ola, ${taguser}*
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
+║🤴ㅤ» 𝐎𝐰𝐧𝐞𝐫: wa.me/59176181985
+║🫂ㅤ» 𝐂𝐫𝐞𝐚𝐝𝐨𝐫:𝐾𝑎𝑟𝑖𝑚
+║🛎ㅤ» 𝐈𝐠:@usxr._.karim
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
+║➤ *Fecha:* ${date}
+║➤ *Tiempo activo:* ${uptime}
+║➤ *Usuarios regs:* ${rtotalreg}
+║➤ *Usuarios totales:* ${rtotal}
+╰═══╡✯✯✯✯✯✯✯✯✯╞═══╯
 
-𝙱𝚒𝚎𝚗𝚟𝚎𝚗𝚒𝚍𝚘 𝚊𝚕 𝚖𝚎𝚗𝚞 𝚍𝚎 𝙼𝚘𝚗𝚔𝚒 𝙱𝚘𝚝 🐵
+┏━━━━━━━━━━━━━━━━┓
+┃ *< 𝕀ℕ𝔽𝕆 𝔻𝔼𝕃 𝕌𝕊𝕌𝔸ℝ𝕀𝕆 />*
+┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
+┣🎖 » 𝙽𝚒𝚟𝚎𝚕 : ${level}
+┣💎 » 𝙳𝚒𝚊𝚖𝚊𝚗𝚝𝚎𝚜 : ${limit}
+┣🦁 » 𝙳𝚢𝚕𝚊𝚗𝙲𝚘𝚒𝚗𝚜 : ${money}
+┣🪙 » 𝚃𝚘𝚔𝚎𝚗𝚜 : ${joincount}
+┣🕹 » 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚒𝚊 : ${exp}
+┣⚜ » 𝚁𝚊𝚗𝚐𝚘 : ${role}
+┗━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━━━━┓ 
 
-👤ㅤ» 𝐎𝐰𝐧𝐞𝐫 𝟏: wa.me/51906641131
-👤ㅤ» 𝐎𝐰𝐧𝐞𝐫 𝟐: wa.me/51977835959
-🫂ㅤ» 𝐂𝐫𝐞𝐚𝐝𝐨𝐫: 𝑫𝒂𝒏𝒊𝒆𝒍
-✍🏻ㅤ» 𝐄𝐝𝐢𝐭𝐨𝐫: 𝑺𝒐𝒑𝒊𝒊𝒙
-⏱ㅤ» 𝐔𝐩𝐭𝐢𝐦𝐞: ${uptime}
-🛎ㅤ» 𝐈𝐠: http://Instagram.com/monki_bot/
 ㅤ
 ┗━━━━━━━━━━━━━━━━┛
 
-🙈 ━━━━ • • 🐵 • • ━━━━ 🙉
+┏━━━━𝐉𝐔𝐄𝐆𝐎𝐒 ⛅━━━━┓ 
+┣🎮 ${usedPrefix}mates
+┣🎮 ${usedPrefix}ppt <papel / tijera /piedra>
+┣🎮 ${usedPrefix}prostituto <nombre / @tag>
+┣🎮 ${usedPrefix}prostituta <nombre / @tag>
+┣🎮 ${usedPrefix}gay2 <nombre / @tag>
+┣🎮 ${usedPrefix}lesbiana <nombre / @tag>
+┣🎮 ${usedPrefix}pajero <nombre / @tag>
+┣🎮 ${usedPrefix}pajera <nombre / @tag>
+┣🎮 ${usedPrefix}puto <nombre / @tag>
+┣🎮 ${usedPrefix}puta <nombre / @tag>
+┣🎮 ${usedPrefix}manco <nombre / @tag>
+┣🎮 ${usedPrefix}manca <nombre / @tag>
+┣🎮 ${usedPrefix}rata <nombre / @tag>
+┣🎮 ${usedPrefix}love <nombre / @tag>
+┣🎮 ${usedPrefix}doxear <nombre / @tag>
+┣🎮 ${usedPrefix}pregunta <texto>
+┣🎮 ${usedPrefix}suitpvp <@tag>
+┣🎮 ${usedPrefix}slot <apuesta>
+┣🎮 ${usedPrefix}ttt <nombre sala>
+┣🎮 ${usedPrefix}delttt
+┣🎮 ${usedPrefix}simi <texto>
+┣🎮 ${usedPrefix}top <texto>
+┣🎮 ${usedPrefix}topotakus
+┣🎮 ${usedPrefix}top10gays
+┣🎮 ${usedPrefix}toplind@s
+┣🎮 ${usedPrefix}topput@s
+┣🎮 ${usedPrefix}toppajer@s
+┣🎮 ${usedPrefix}topotakus
+┣🎮 ${usedPrefix}topintegrantes
+┣🎮 ${usedPrefix}toplagrasa
+┣🎮 ${usedPrefix}toppanafrescos
+┣🎮 ${usedPrefix}topshiposters
+┣🎮 ${usedPrefix}toppajeros
+┣🎮 ${usedPrefix}toplind@s
+┣🎮 ${usedPrefix}topfamosos
+┣🎮 ${usedPrefix}topsoltero
+┣🎮 ${usedPrefix}topparejas
+┣🎮 ${usedPrefix}formarpareja
+┣🎮 ${usedPrefix}verdad
+┣🎮 ${usedPrefix}reto
+┣🎮 ${usedPrefix}cancion
+┣🎮 ${usedPrefix}pista
+┣🎮 ${usedPrefix}ruleta
+┣🎮 ${usedPrefix}zodiac
+┣🎮 ${usedPrefix}odio
+┣🎮 ${usedPrefix}ship
+┣🎮 ${usedPrefix}sorteo
+┣🎮 ${usedPrefix}minovi@
+┗━━━━━━━━━━━━━━━━━┛
 
-ㅤㅤㅤ𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐔𝐒𝐔𝐀𝐑𝐈𝐎
+┏━𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐎 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑━┓ 
+┣🟢 ${usedPrefix}enable
+┣🔴 ${usedPrefix}disable
+┗━━━━━━━━━━━━━━━━━━━━┛
 
-🎖 » 𝙽𝚒𝚟𝚎𝚕 : ${level}
-💎 » 𝙳𝚒𝚊𝚖𝚊𝚗𝚝𝚎𝚜 : ${limit}
-🐒 » 𝙼𝚘𝚗𝚔𝚒𝙲𝚘𝚒𝚗𝚜 : ${money}
-🪙 » 𝚃𝚘𝚔𝚎𝚗𝚜 : ${joincount}
-🕹 » 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚒𝚊 : ${exp}
-⚜ » 𝚁𝚊𝚗𝚐𝚘 : ${role}
-${readMore}
+┏━━━━𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒━━━━━┓ 
+┣📥 ${usedPrefix}play <texto>
+┣📥 ${usedPrefix}play.1 <texto>
+┣📥 ${usedPrefix}play.2 <texto>
+┣📥 ${usedPrefix}playdoc <texto>
+┣📥 ${usedPrefix}playlist <texto>
+┣📥 ${usedPrefix}playlist2 <texto>
+┣📥 ${usedPrefix}spotify <texto>
+┣📥 ${usedPrefix}tiktok <enlace / link / url>
+┣📥 ${usedPrefix}instagram <enlace / link / url>
+┣📥 ${usedPrefix}mediafire <enlace / link / url>
+┣📥 ${usedPrefix}instagram <enlace / link / url>
+┣📥 ${usedPrefix}gitclone <enlace / link / url>
+┣📥 ${usedPrefix}gdrive <enlace / link / url>
+┣📥 ${usedPrefix}xnxxdl <enlace / link / url>
+┣📥 ${usedPrefix}xvideosdl <enlace / link / url>
+┣📥 ${usedPrefix}twitter <enlace / link / url>
+┣📥 ${usedPrefix}fb <enlace / link / url>
+┣📥 ${usedPrefix}fb2 <enlace / link / url>
+┣📥 ${usedPrefix}fb3 <enlace / link / url>
+┣📥 ${usedPrefix}fb4 <enlace / link / url>
+┣📥 ${usedPrefix}fb5 <enlace / link / url>
+┣📥 ${usedPrefix}ytmp3 <enlace / link / url>
+┣📥 ${usedPrefix}ytmp4 <enlace / link / url>
+┣📥 ${usedPrefix}ytmp3doc <enlace / link / url>
+┣📥 ${usedPrefix}ytmp4doc <enlace / link / url>
+┣📥 ${usedPrefix}stickerpack <enlace / link / url>
+┣📥 ${usedPrefix}stickerly <texto>
+┣📥 ${usedPrefix}ringtone <texto>
+┣📥 ${usedPrefix}soundcloud <texto>
+┣📥 ${usedPrefix}imagen <texto>
+┣📥 ${usedPrefix}pinteret <texto>
+┣📥 ${usedPrefix}wallpaper <texto>
+┣📥 ${usedPrefix}wallpaper2 <texto>
+┣📥 ${usedPrefix}pptiktok <nombre de usuario>
+┣📥 ${usedPrefix}igstalk <nombre de usuario>
+┣📥 ${usedPrefix}igstory <nombre de usuario>
+┣📥 ${usedPrefix}tiktokstalk *<username>*
+┗━━━━━━━━━━━━━━━━━┛
 
-┌─── 𝐉𝐔𝐄𝐆𝐎𝐒 ⛅
-🎮 ${usedPrefix}mates
-🎮 ${usedPrefix}ppt <papel / tijera /piedra>
-🎮 ${usedPrefix}prostituto <nombre / @tag>
-🎮 ${usedPrefix}prostituta <nombre / @tag>
-🎮 ${usedPrefix}gay2 <nombre / @tag>
-🎮 ${usedPrefix}lesbiana <nombre / @tag>
-🎮 ${usedPrefix}pajero <nombre / @tag>
-🎮 ${usedPrefix}pajera <nombre / @tag>
-🎮 ${usedPrefix}puto <nombre / @tag>
-🎮 ${usedPrefix}puta <nombre / @tag>
-🎮 ${usedPrefix}manco <nombre / @tag>
-🎮 ${usedPrefix}manca <nombre / @tag>
-🎮 ${usedPrefix}rata <nombre / @tag>
-🎮 ${usedPrefix}love <nombre / @tag>
-🎮 ${usedPrefix}doxear <nombre / @tag>
-🎮 ${usedPrefix}pregunta <texto>
-🎮 ${usedPrefix}suitpvp <@tag>
-🎮 ${usedPrefix}slot <apuesta>
-🎮 ${usedPrefix}ttt <nombre sala>
-🎮 ${usedPrefix}delttt
-🎮 ${usedPrefix}simi <texto>
-🎮 ${usedPrefix}top <texto>
-🎮 ${usedPrefix}topotakus
-🎮 ${usedPrefix}top10gays
-🎮 ${usedPrefix}toplind@s
-🎮 ${usedPrefix}topput@s
-🎮 ${usedPrefix}toppajer@s
-🎮 ${usedPrefix}topotakus
-🎮 ${usedPrefix}topintegrantes
-🎮 ${usedPrefix}toplagrasa
-🎮 ${usedPrefix}toppanafrescos
-🎮 ${usedPrefix}topshiposters
-🎮 ${usedPrefix}toppajeros
-🎮 ${usedPrefix}toplind@s
-🎮 ${usedPrefix}topfamosos
-🎮 ${usedPrefix}topsoltero
-🎮 ${usedPrefix}topparejas
-🎮 ${usedPrefix}formarpareja
-🎮 ${usedPrefix}verdad
-🎮 ${usedPrefix}reto
-🎮 ${usedPrefix}cancion
-🎮 ${usedPrefix}pista
-🎮 ${usedPrefix}ruleta
-🎮 ${usedPrefix}zodiac
-🎮 ${usedPrefix}odio
-🎮 ${usedPrefix}ship
-🎮 ${usedPrefix}sorteo
-🎮 ${usedPrefix}minovi@
-• ━━━━ • • ━━━━ • • ━━━━ • 
+┏━━━━━𝐆𝐑𝐔𝐏𝐎𝐒 ⛅━━━━━┓ 
+┣💌 ${usedPrefix}add <numero>
+┣💌 ${usedPrefix}kick <@tag>
+┣💌 ${usedPrefix}grupo <abrir / cerrar>
+┣💌 ${usedPrefix}grouptime <opcion> <tiempo>
+┣💌 ${usedPrefix}promote <@tag>
+┣💌 ${usedPrefix}demote <@tag>
+┣💌 admins *<texto>*_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
+┣💌 ${usedPrefix}demote <@tag>
+┣💌 ${usedPrefix}infogroup
+┣💌 ${usedPrefix}resetlink
+┣💌 ${usedPrefix}link
+┣💌 ${usedPrefix}setname <texto>
+┣💌 ${usedPrefix}setdesc <texto>
+┣💌 ${usedPrefix}invocar <texto>
+┣💌 ${usedPrefix}setwelcome <texto>
+┣💌 ${usedPrefix}setbye <texto>
+┣💌 ${usedPrefix}hidetag <texto>
+┣💌 ${usedPrefix}warn <@tag>
+┣💌 ${usedPrefix}unwarn <@tag>
+┣💌 ${usedPrefix}listwarn
+┣💌 ${usedPrefix}fantasmas
+┣💌 ${usedPrefix}destraba
+┣💌 ${usedPrefix}setpp <imagen>
+┗━━━━━━━━━━━━━━━━━━━━┛
 
-┌─── 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐎 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑 ⛅
-🟢 ${usedPrefix}enable
-🔴 ${usedPrefix}disable
-• ━━━━ • • ━━━━ • • ━━━━ •
+┏━━━𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒━━━━━┓ 
+┣🎭 ${usedPrefix}robar texto
+┣🎭 ${usedPrefix}wm texto
+┣🎭 ${usedPrefix}toimg <sticker>
+┣🎭 ${usedPrefix}tomp3 <video>
+┣🎭 ${usedPrefix}tomp3 <nota de voz>
+┣🎭 ${usedPrefix}toptt <video / audio>
+┣🎭 ${usedPrefix}tovideo <sticker>
+┣🎭 ${usedPrefix}tourl <video / imagen / audio>
+┣🎭 ${usedPrefix}tts es <texto>
+┗━━━━━━━━━━━━━━━━━━━━┛
 
-┌─── 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 ⛅
-📥 ${usedPrefix}play <texto>
-📥 ${usedPrefix}play.1 <texto>
-📥 ${usedPrefix}play.2 <texto>
-📥 ${usedPrefix}playdoc <texto>
-📥 ${usedPrefix}playlist <texto>
-📥 ${usedPrefix}playlist2 <texto>
-📥 ${usedPrefix}spotify <texto>
-📥 ${usedPrefix}tiktok <enlace / link / url>
-📥 ${usedPrefix}instagram <enlace / link / url>
-📥 ${usedPrefix}mediafire <enlace / link / url>
-📥 ${usedPrefix}instagram <enlace / link / url>
-📥 ${usedPrefix}gitclone <enlace / link / url>
-📥 ${usedPrefix}gdrive <enlace / link / url>
-📥 ${usedPrefix}xnxxdl <enlace / link / url>
-📥 ${usedPrefix}xvideosdl <enlace / link / url>
-📥 ${usedPrefix}twitter <enlace / link / url>
-📥 ${usedPrefix}fb <enlace / link / url>
-📥 ${usedPrefix}fb2 <enlace / link / url>
-📥 ${usedPrefix}fb3 <enlace / link / url>
-📥 ${usedPrefix}fb4 <enlace / link / url>
-📥 ${usedPrefix}fb5 <enlace / link / url>
-📥 ${usedPrefix}ytmp3 <enlace / link / url>
-📥 ${usedPrefix}ytmp4 <enlace / link / url>
-📥 ${usedPrefix}ytmp3doc <enlace / link / url>
-📥 ${usedPrefix}ytmp4doc <enlace / link / url>
-📥 ${usedPrefix}stickerpack <enlace / link / url>
-📥 ${usedPrefix}stickerly <texto>
-📥 ${usedPrefix}ringtone <texto>
-📥 ${usedPrefix}soundcloud <texto>
-📥 ${usedPrefix}imagen <texto>
-📥 ${usedPrefix}pinteret <texto>
-📥 ${usedPrefix}wallpaper <texto>
-📥 ${usedPrefix}wallpaper2 <texto>
-📥 ${usedPrefix}pptiktok <nombre de usuario>
-📥 ${usedPrefix}igstalk <nombre de usuario>
-📥 ${usedPrefix}igstory <nombre de usuario>
-📥 ${usedPrefix}tiktokstalk *<username>*
-• ━━━━ • • ━━━━ • • ━━━━ •
+┏━━𝐄𝐅𝐄𝐂𝐓𝐎𝐒 𝐘 𝐋𝐎𝐆𝐎𝐒━━━━┓ 
+┣🖋️ ${usedPrefix}mensajefalso <nombre|mensaje>
+┣🖋️ ${usedPrefix}phmaker <opcion> <imagen>
+┣🖋️ ${usedPrefix}logos <efecto> <texto>
+┣🖋️ ${usedPrefix}logochristmas <texto>
+┣🖋️ ${usedPrefix}logocorazon <texto>
+┣🖋️ ${usedPrefix}ytcomment <texto>
+┣🖋️ ${usedPrefix}hornycard <@tag>
+┣🖋️ ${usedPrefix}simpcard <@tag>
+┣🖋️ ${usedPrefix}lolice <@tag>
+┣🖋️ ${usedPrefix}itssostupid
+┣🖋️ ${usedPrefix}pixelar
+┣🖋️ ${usedPrefix}blur
+┗━━━━━━━━━━━━━━━━━━━━┛
 
-┌─── 𝐆𝐑𝐔𝐏𝐎𝐒 ⛅
-💌 ${usedPrefix}add <numero>
-💌 ${usedPrefix}kick <@tag>
-💌 ${usedPrefix}grupo <abrir / cerrar>
-💌 ${usedPrefix}grouptime <opcion> <tiempo>
-💌 ${usedPrefix}promote <@tag>
-💌 ${usedPrefix}demote <@tag>
-💌 admins *<texto>*_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
-💌 ${usedPrefix}demote <@tag>
-💌 ${usedPrefix}infogroup
-💌 ${usedPrefix}resetlink
-💌 ${usedPrefix}link
-💌 ${usedPrefix}setname <texto>
-💌 ${usedPrefix}setdesc <texto>
-💌 ${usedPrefix}invocar <texto>
-💌 ${usedPrefix}setwelcome <texto>
-💌 ${usedPrefix}setbye <texto>
-💌 ${usedPrefix}hidetag <texto>
-💌 ${usedPrefix}warn <@tag>
-💌 ${usedPrefix}unwarn <@tag>
-💌 ${usedPrefix}listwarn
-💌 ${usedPrefix}fantasmas
-💌 ${usedPrefix}destraba
-💌 ${usedPrefix}setpp <imagen>
-• ━━━━ • • ━━━━ • • ━━━━ •
+┏━━━𝐄𝐅𝐄𝐂𝐓𝐎𝐒 𝐘 𝐋𝐎𝐆𝐎𝐒━━━┓ 
+┣🥀 ${usedPrefix}piropo
+┣🥀 ${usedPrefix}consejo
+┣🥀 ${usedPrefix}fraseromantica
+┗━━━━━━━━━━━━━━━━━━━━┛
 
-┌─── 𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒 ⛅
-🎭 ${usedPrefix}togifaud <video>
-🎭 ${usedPrefix}robar texto
-🎭 ${usedPrefix}wm texto
-🎭 ${usedPrefix}toimg <sticker>
-🎭 ${usedPrefix}tomp3 <video>
-🎭 ${usedPrefix}tomp3 <nota de voz>
-🎭 ${usedPrefix}toptt <video / audio>
-🎭 ${usedPrefix}tovideo <sticker>
-🎭 ${usedPrefix}tourl <video / imagen / audio>
-🎭 ${usedPrefix}tts es <texto>
-• ━━━━ • • ━━━━ • • ━━━━ •
+┏━━━━𝐁𝐔𝐒𝐂𝐀𝐃𝐎𝐑𝐄𝐒━━━━━━━┓ 
+┣🔍 ${usedPrefix}stickersearch <texto>
+┣🔍 ${usedPrefix}stickersearch2 <texto>
+┣🔍 ${usedPrefix}xnxxsearch <texto>
+┣🔍 ${usedPrefix}animeinfo <texto>
+┣🔍 ${usedPrefix}google <texto>
+┣🔍 ${usedPrefix}letra <texto>
+┣🔍 ${usedPrefix}wikipedia <texto>
+┣🔍 ${usedPrefix}ytsearch <texto>
+┣🔍 ${usedPrefix}apkdone <texto>
+┣🔍 ${usedPrefix}apkgoogle <texto>
+┣🔍 ${usedPrefix}apkmody <texto>
+┣🔍 ${usedPrefix}uapkpro <texto>
+┣🔍 ${usedPrefix}playstore <texto>
+┗━━━━━━━━━━━━━━━━━━━━┛
 
- ┌─── 𝐄𝐅𝐄𝐂𝐓𝐎𝐒 𝐘 𝐋𝐎𝐆𝐎𝐒 ⛅
-🖋️ ${usedPrefix}mensajefalso <nombre|mensaje>
-🖋️ ${usedPrefix}phmaker <opcion> <imagen>
-🖋️ ${usedPrefix}logos <efecto> <texto>
-🖋️ ${usedPrefix}logochristmas <texto>
-🖋️ ${usedPrefix}logocorazon <texto>
-🖋️ ${usedPrefix}ytcomment <texto>
-🖋️ ${usedPrefix}hornycard <@tag>
-🖋️ ${usedPrefix}simpcard <@tag>
-🖋️ ${usedPrefix}lolice <@tag>
-🖋️ ${usedPrefix}itssostupid
-🖋️ ${usedPrefix}pixelar
-🖋️ ${usedPrefix}blur
-• ━━━━ • • ━━━━ • • ━━━━ •
-
-┌─── 𝐅𝐑𝐀𝐒𝐄𝐒 𝐘 𝐓𝐄𝐗𝐓𝐎𝐒 ⛅
-🥀 ${usedPrefix}piropo
-🥀 ${usedPrefix}consejo
-🥀 ${usedPrefix}fraseromantica
-• ━━━━ • • ━━━━ • • ━━━━ •
-
-┌─── 𝐁𝐔𝐒𝐂𝐀𝐃𝐎𝐑𝐄𝐒 ⛅
-🔍 ${usedPrefix}stickersearch <texto>
-🔍 ${usedPrefix}stickersearch2 <texto>
-🔍 ${usedPrefix}xnxxsearch <texto>
-🔍 ${usedPrefix}animeinfo <texto>
-🔍 ${usedPrefix}google <texto>
-🔍 ${usedPrefix}letra <texto>
-🔍 ${usedPrefix}wikipedia <texto>
-🔍 ${usedPrefix}ytsearch <texto>
-🔍 ${usedPrefix}apkdone <texto>
-🔍 ${usedPrefix}apkgoogle <texto>
-🔍 ${usedPrefix}apkmody <texto>
-🔍 ${usedPrefix}uapkpro <texto>
-🔍 ${usedPrefix}playstore <texto>
 • ━━━━ • • ━━━━ • • ━━━━ •
 
 ┌─── 𝐇𝐄𝐑𝐑𝐀𝐌𝐈𝐄𝐍𝐓𝐀𝐒 ⛅
