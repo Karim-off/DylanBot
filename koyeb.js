@@ -7,9 +7,9 @@ RUN sudo dnf -y update &&\
 
 RUN git clone https://github.com/Karim-off/DylanBot
 
-WORKDIR /root/The-LoliBot-MD
+WORKDIR /root/The-Dylan-MD
 
-COPY ./root/The-LoliBot-MD
+COPY ./root/The-Dylan-MD
 
 RUN yarn install
 
