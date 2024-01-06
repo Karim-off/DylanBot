@@ -7,7 +7,7 @@ let chat = global.db.data.chats[m.chat]
 let bot = global.db.data.settings[conn.user.jid] || {}
 if (isBotAdmin && chat.antifake && !isAdmin && !isOwner && !isROwner) {
 //if (!db.data.chats[m.chat].antifake && m.isGroup) throw 0
-let texto = `${ag}este numero *@${m.sender.split`@`[0]}* eres un sin económia\n\nsolo los que tienen económia pueden permanecer`
+let texto = `${ag}este numero *@${m.sender.split`@`[0]}* 𝘦𝘳𝘦𝘴 𝘶𝘯 𝘴𝘪𝘯 𝘦𝘤𝘰𝘯ó𝘮𝘪𝘢\𝘯\𝘯𝘴𝘰𝘭𝘰 𝘭𝘰𝘴 𝘲𝘶𝘦 𝘵𝘪𝘦𝘯𝘦𝘯 𝘦𝘤𝘰𝘯ó𝘮𝘪𝘢 𝘱𝘶𝘦𝘥𝘦𝘯 𝘱𝘦𝘳𝘮𝘢𝘯𝘦𝘤𝘦𝘳`
 
 if (m.sender.startsWith('54' || '54')) {
 await conn.reply(m.chat, texto, fkontak,  m)
