@@ -111,7 +111,7 @@ return { conversation: "hello, i'm OFC-YOVANI" }},
 msgRetryCounterMap,
 logger: pino({ level: 'silent' }),
 auth: state,
-browser: ['Gabi x Naye Bot','Safari','9.7.0'],
+browser: ['Dylan Bot','Safari','9.7.0'],
 version   
 }
 
