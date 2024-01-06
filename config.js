@@ -11,8 +11,8 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰
 
 global.owner = [ 
-['51907913096', 'Daniel', true],
-['51977835959', 'sopiix', true],
+['59176181985', 'karim', true],
+['59176181985', 'karim', true],
 ['51977835959'],
 ['51907913096'],
 ['51907913096'], 
@@ -33,7 +33,7 @@ global.confirmCode = ""
 //  en = English         pt = Português
 //  ar = عرب 
 
-global.lenguajeGB = es  //Idioma de DokiBot, Ejemplo: es | en | pt...
+global.lenguajeGB = es  //Idioma de DylanBot, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -92,27 +92,27 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝐌𝐨𝐧𝐤𝐢 𝐁𝐨𝐭'
-global.author = 'By Sopi x Daniel'
+global.packname = '𝐃𝐲𝐥𝐚𝐧 𝐁𝐨𝐭'
+global.author = 'By Karim.dzn'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.lb = '𝐌𝐨𝐧𝐤𝐢 𝐁𝐨𝐭'
+global.lb = '𝐃𝐲𝐥𝐚𝐧 𝐁𝐨𝐭'
 global.vs = '1.5.5'
-global.yt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33'
-global.ig = 'https://www.instagram.com/monki_bot'
-global.md = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33'
-global.fb = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33'
+global.yt = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6'
+global.ig = 'https://www.instagram.com/usxr._.karim?igsh=OGY1bGE1d3EyY212'
+global.md = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6'
+global.fb = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6'
 
-global.nna = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Actualización, información sobre el bot
-global.nn = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo 1
-global.nnn = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo 2
-global.nnnt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo del Colaboracion
-global.nnnt2 = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' // Grupo COL 2
-global.nnntt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo COL 3
-global.nnnttt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Canal MonkiBot
-global.nnntttt = 'https://whatsapp.com/channel/0029VaBpO8M3rZZdwkGFIP33' //Grupo ayuda sobre el bot
-global.asistencia = 'wa.me/51906641131' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6' //Actualización, información sobre el bot
+global.nn = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6' //Grupo del Colaboracion
+global.nnnt2 = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6' // Grupo COL 2
+global.nnntt = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6' //Grupo COL 3
+global.nnnttt = 'https://whatsapp.com/channel/0029VaJWkYrGufIqnI1OAr2n' //Canal Dylan Bot 
+global.nnntttt = 'https://whatsapp.com/channel/0029VaJWkYrGufIqnI1OAr2n' //Grupo ayuda sobre el bot
+global.asistencia = 'wa.me/59176181985' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
@@ -133,13 +133,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '𝐌𝐨𝐧𝐤𝐢 𝐁𝐨𝐭'
-global.igfg = '𝐌𝐨𝐧𝐤𝐢 𝐁𝐨𝐭'
+global.wm = '𝐃𝐲𝐥𝐚𝐧 𝐁𝐨𝐭'
+global.igfg = '𝐃𝐲𝐥𝐚𝐧 𝐁𝐨𝐭'
 global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '𝐌𝐨𝐧𝐤𝐢 𝐁𝐨𝐭'
+global.nomorown = '𝐃𝐲𝐥𝐚𝐧 𝐁𝐨𝐭'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //⊱ ━━━━━.⋅ IMG ⋅.━━━━ ⊰
