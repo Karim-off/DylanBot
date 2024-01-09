@@ -1,7 +1,7 @@
 # Código desarrollado por @gata_dios  
 
 #!/data/data/com.termux/files/usr/bin/bash  
-BOT_DIR="Dylan-Bot"  
+BOT_DIR="DylanBot"  
 BOT_REPO="https://github.com/karim-off/$BOT_DIR" 
 DB_FILE="database.json"
 
