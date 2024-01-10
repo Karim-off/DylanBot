@@ -22,7 +22,7 @@ import fetch from 'node-fetch';
      const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document']; 
      const document = doc[Math.floor(Math.random() * doc.length)]; 
      const str = `┏━━━━━━━━━━━━━━━━━━ 
- ┣┅⟣✦ *Dylan Bot 🦁*
+ ┣┅⟣✦ *Dylan Bot 🐹*
  ┣┅⟣✦ *Colaboradores* 
  ┗━━━━━━━━━━━━━━━━━━┛ 
  ━━━━━━━━━━━━━━━━━━━━ 
