@@ -29,7 +29,7 @@ conn.reply(m.chat, info, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: `${wm}`,
 body: '', previewType: 0, thumbnail: imagen2, sourceUrl: nna}}})
-//conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '𝙏𝙝𝙚-𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', 'status@broadcast')
+//conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '𝘿𝙮𝙡𝙖𝙣𝘽𝙤𝙩-𝙈𝘿', 'status@broadcast')
 }
 handler.command = /^linkgc|grupos|gruposgatabot|gatabotgrupos|gruposdegatabot|groupofc|gruposgb|grupogb|groupgb$/i
 export default handler
