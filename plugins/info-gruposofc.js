@@ -6,10 +6,10 @@ let info = `*Hola 👋🏻, Bienvenido a los grupos oficiales, te invito a unete
 
 2) *${nnn}*
 
-➤ Grupo del Colaboracion LoliBot, GataBot-MD
+➤ Grupo del Colaboracion DylanBot, GataBot-MD
  *${nnnt}*
 
-➤ Grupo del colaboración LoliBot, DorratBot-MD
+➤ Grupo del colaboración DylanBot, DorratBot-MD
 *${nnnt2}*
 
 ➤ Grupo del col 3 (sin limite)
