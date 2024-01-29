@@ -66,27 +66,15 @@ cd && termux-setup-storage
 ```
 
 ```bash
-apt-get update -y && apt-get upgrade -y
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
-```
-
-```bash
-git clone https://github.com/DanielDiod/Ai-Hoshino.git && cd Ai-Hoshino
+git clone https://github.com/Karim-off/DylanBot && cd DylanBot
 ```
 
 ```bash
 yarn install
-```
-
-```bash
-npm install
-```
-
-```bash
-npm update
 ```
 
 ```bash
