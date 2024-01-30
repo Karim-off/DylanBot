@@ -272,7 +272,7 @@ externalAdReply: {
 title: '❑— 𝘿𝙮𝙡𝙖𝙣𝘽𝙤𝙩-𝙈𝘿 —❑\nWʜᴀᴛꜱᴀᴘᴘ Bᴏᴛ - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ',
 //body: 'Wʜᴀᴛꜱᴀᴘᴘ Bᴏᴛ - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ',
 thumbnail: img,
-sourceUrl: 'https://chat.whatsapp.com/Bbw7JoHvMWw040uYE5GQ79',
+sourceUrl: 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
