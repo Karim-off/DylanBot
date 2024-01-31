@@ -92,7 +92,11 @@ let menu = `⌜ *${wm}* ⌟
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 ⚔️ 𝐋𝐈𝐒𝐓𝐀𝐒 𝐕𝐒 ⚔️ 〕*
-*│➯ ⚔️ ${usedPrefix} 
+*│➯ ⚔️ ${usedPrefix}feminfinito14*
+*│➯ ⚔️ ${usedPrefix}feminfinito16*
+*│➯ ⚔️ ${usedPrefix}feminfinito18*
+*│➯ ⚔️ ${usedPrefix}feminfinito20*
+*│➯ ⚔️ ${usedPrefix}feminfinito22*
 
 *╭━〔 🎮 𝐉𝐔𝐄𝐆𝐎𝐒 🎮 〕*
 *│➯ 🕹️ ${usedPrefix}mates*
