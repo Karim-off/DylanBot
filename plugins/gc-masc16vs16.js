@@ -6,8 +6,6 @@ throw false
 let pesan = args.join` `
 let oi = `𝘓𝘐𝘚𝘛𝘈 16 VS 16❤️‍🔥•: ${pesan}`
 let teks = `╭┈┈ ๑👻๑ •• ${oi} ๑👻๑ ••:\n`
-for (let mem of participants) {
-teks += `@${mem.id.split('@')[0]}❤️‍🔥`}
 teks += `ㅤ
 │
 │         🐻‍❄️ 𝘿𝙮𝙡𝙖𝙣𝘽𝙤𝙩-𝙈𝘿 🐻‍❄️
