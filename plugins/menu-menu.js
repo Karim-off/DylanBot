@@ -86,59 +86,62 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 let menu = `⌜ *${wm}* ⌟  
 
 *╭━〔  𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 ⛅  〕⬣
- ┃➤ 👤 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 : Karim 
- ┃➤ 👤 𝐒𝐨𝐩𝐨𝐫𝐭𝐞 : Karim
- ┃➤ 🧿 𝐂𝐚𝐧𝐚𝐥 : https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y
+ │➯ 👤 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 : Karim 
+ │➯ 👤 𝐒𝐨𝐩𝐨𝐫𝐭𝐞 : Karim
+ │➯ 🧿 𝐂𝐚𝐧𝐚𝐥 : https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y
 *╰━━━━━━━━━━━━⬣*
 
+*╭━〔 ⚔️ 𝐋𝐈𝐒𝐓𝐀𝐒 𝐕𝐒 ⚔️ 〕*
+*│➯ ⚔️ ${usedPrefix} 
+
 *╭━〔 🎮 𝐉𝐔𝐄𝐆𝐎𝐒 🎮 〕*
-*┃➤ 🕹️ ${usedPrefix}mates*
-*┃➤ 🕹️ ${usedPrefix}ppt*
-*┃➤ 🕹️ ${usedPrefix}prostituto <@tag>*
-*┃➤ 🕹️ ${usedPrefix}prostituta <@tag>*
-*┃➤ 🕹️ ${usedPrefix}gay2 <@tag>*
-*┃➤ 🕹️ ${usedPrefix}lesbiana <@tag>*
-*┃➤ 🕹️ ${usedPrefix}pajero <@tag>*
-*┃➤ 🕹️ ${usedPrefix}pajera <@tag>*
-*┃➤ 🕹️ ${usedPrefix}puto <@tag>*
-*┃➤ 🕹️ ${usedPrefix}puta <@tag>*
-*┃➤ 🕹️ ${usedPrefix}manco <@tag>*
-*┃➤ 🕹️ ${usedPrefix}manca <@tag>*
-*┃➤ 🕹️ ${usedPrefix}rata <@tag>*
-*┃➤ 🕹️ ${usedPrefix}negro <@tag>*
-*┃➤ 🕹️ ${usedPrefix}negra <@tag>*
-*┃➤ 🕹️ ${usedPrefix}fea <@tag>*
-*┃➤ 🕹️ ${usedPrefix}feo <@tag>*
-*┃➤ 🕹️ ${usedPrefix}sinpoto <@tag>*
-*┃➤ 🕹️ ${usedPrefix}sintetas <@tag>*
-*┃➤ 🕹️ ${usedPrefix}sinpito <@tag>*
-*┃➤ 🕹️ ${usedPrefix}adoptada <@tag>*
-*┃➤ 🕹️ ${usedPrefix}adoptado <@tag>*
-*┃➤ 🕹️ ${usedPrefix}love*
-*┃➤ 🕹️ ${usedPrefix}los10*
-*┃➤ 🕹️ ${usedPrefix}suitpvp*
-*┃➤ 🕹️ ${usedPrefix}slot*
-*┃➤ 🕹️ ${usedPrefix}simisimi*
-*┃➤ 🕹️ ${usedPrefix}pregunta*
-*┃➤ 🕹️ ${usedPrefix}cuando*
-*┃➤ 🕹️ ${usedPrefix}ship5*
-*┃➤ 🕹️ ${usedPrefix}abrazo*
-*┃➤ 🕹️ ${usedPrefix}ship2*
-*┃➤ 🕹️ ${usedPrefix}formarpareja*
-*┃➤ 🕹️ ${usedPrefix}verdad*
-*┃➤ 🕹️ ${usedPrefix}reto*
-*┃➤ 🕹️ ${usedPrefix}cancion*
-*┃➤ 🕹️ ${usedPrefix}pista*
-*┃➤ 🕹️ ${usedPrefix}ruleta*
-*┃➤ 🕹️ ${usedPrefix}zodiac*
-*┃➤ 🕹️ ${usedPrefix}odio*
-*┃➤ 🕹️ ${usedPrefix}ship*
-*┃➤ 🕹️ ${usedPrefix}sorteo*
-*┃➤ 🕹️ ${usedPrefix}minovia*
-*┃➤ 🕹️ ${usedPrefix}minovio*
-*┃➤ 🕹️ ${usedPrefix}kchero*
-*┃➤ 🕹️ ${usedPrefix}kchero*
- ╰━━━━━━━━━━━━
+*│➯ 🕹️ ${usedPrefix}mates*
+*│➯ 🕹️ ${usedPrefix}ppt*
+*│➯ 🕹️ ${usedPrefix}prostituto <@tag>*
+*│➯ 🕹️ ${usedPrefix}prostituta <@tag>*
+*│➯ 🕹️ ${usedPrefix}gay2 <@tag>*
+*│➯ 🕹️ ${usedPrefix}lesbiana <@tag>*
+*│➯ 🕹️ ${usedPrefix}pajero <@tag>*
+*│➯ 🕹️ ${usedPrefix}pajera <@tag>*
+*│➯ 🕹️ ${usedPrefix}puto <@tag>*
+*│➯ 🕹️ ${usedPrefix}puta <@tag>*
+*│➯ 🕹️ ${usedPrefix}manco <@tag>*
+*│➯ 🕹️ ${usedPrefix}manca <@tag>*
+*│➯ 🕹️ ${usedPrefix}rata <@tag>*
+*│➯ 🕹️ ${usedPrefix}negro <@tag>*
+*│➯ 🕹️ ${usedPrefix}negra <@tag>*
+*│➯ 🕹️ ${usedPrefix}fea <@tag>*
+*│➯ 🕹️ ${usedPrefix}feo <@tag>*
+*│➯ 🕹️ ${usedPrefix}sinpoto <@tag>*
+*│➯ 🕹️ ${usedPrefix}sintetas <@tag>*
+*│➯ 🕹️ ${usedPrefix}sinpito <@tag>*
+*│➯ 🕹️ ${usedPrefix}adoptada <@tag>*
+*│➯ 🕹️ ${usedPrefix}adoptado <@tag>*
+*│➯ 🕹️ ${usedPrefix}love*
+*│➯ 🕹️ ${usedPrefix}los10*
+*│➯ 🕹️ ${usedPrefix}suitpvp*
+*│➯ 🕹️ ${usedPrefix}slot*
+*│➯ 🕹️ ${usedPrefix}simisimi*
+*│➯ 🕹️ ${usedPrefix}pregunta*
+*│➯ 🕹️ ${usedPrefix}cuando*
+*│➯ 🕹️ ${usedPrefix}ship5*
+*│➯ 🕹️ ${usedPrefix}abrazo*
+*│➯ 🕹️ ${usedPrefix}ship2*
+*│➯ 🕹️ ${usedPrefix}formarpareja*
+*│➯ 🕹️ ${usedPrefix}verdad*
+*│➯ 🕹️ ${usedPrefix}reto*
+*│➯ 🕹️ ${usedPrefix}cancion*
+*│➯ 🕹️ ${usedPrefix}pista*
+*│➯ 🕹️ ${usedPrefix}ruleta*
+*│➯ 🕹️ ${usedPrefix}zodiac*
+*│➯ 🕹️ ${usedPrefix}odio*
+*│➯ 🕹️ ${usedPrefix}ship*
+*│➯ 🕹️ ${usedPrefix}sorteo*
+*│➯ 🕹️ ${usedPrefix}minovia*
+*│➯ 🕹️ ${usedPrefix}minovio*
+*│➯ 🕹️ ${usedPrefix}kchero*
+*│➯ 🕹️ ${usedPrefix}kchero*
+*╰─────────────────╯*
 
  ╭━〔 ⚠️ *FREE FIRE* ⚠️ 〕
 *┃➤ 🗺️ ${usedPrefix}bermuda*
