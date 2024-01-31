@@ -28,7 +28,7 @@ import fetch from 'node-fetch';
  ━━━━━━━━━━━━━━━━━━━━ 
  🖋️ *Instagram ofc📸*
   
- 🖋️ *Creador Ofc|karim:* https://www.instagram.com/usxr._.karim?igsh=OGY1bGE1d3EyY212 
+ 🖋️ *Creador Ofc|karim:* https://www.instagram.com/usxr_karim?igsh=OGY1bGE1d3EyY212 
    
  *📝Numeros Oficiales*
  
