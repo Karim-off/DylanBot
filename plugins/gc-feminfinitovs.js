@@ -124,7 +124,7 @@ teks += `
 ╰───────────────๑❀๑ •`
 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
 }
-handler.help = ['smsftodas <mesaje>','femtodas <mesaje>']
+handler.help = ['smsfemvividovs <mesaje>','femvividovs <mesaje>']
 handler.tags = ['group']
 handler.command = /^(smsfeminfinitovs|feminfinitovs)$/i
 handler.admin = true
