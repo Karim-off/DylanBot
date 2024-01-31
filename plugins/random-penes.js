@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn, command }) => {
 if (!db.data.chats[m.chat].modohorny && m.isGroup) throw `${lenguajeGB['smsContAdult']()}`
-let url = pene[Math.floor(Math.random() * pies.length)]
+let url = pene[Math.floor(Math.random() * pene.length)]
 conn.sendFile(m.chat, url, 'error.jpg', `🥵 ♥ PENE ♥  🥵`, m)
 //conn.sendButton(m.chat, `🥵 ♥ PENE ♥  🥵`, author, url, [['𝙎𝙄𝙂𝙐𝙄𝙀𝙉𝙏𝙀 | 𝙉𝙀𝙓𝙏 🆕', `/${command}`]], m)
 }
