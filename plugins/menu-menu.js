@@ -272,14 +272,14 @@ let menu = `⌜ *${wm}* ⌟
 *╰─────────────────╯*
 
 *╭━〔 🌝 𝐇𝐄𝐑𝐑𝐀𝐌𝐈𝐄𝐍𝐓𝐀𝐒 🌝 〕
-*│➯┃➤ 🍃 ${usedPrefix}clima*
-*│➯┃➤ 🍃 ${usedPrefix}afk*
-*│➯┃➤ 🍃 ${usedPrefix}ocr*
-*│➯┃➤ 🍃 ${usedPrefix}calc*
-*│➯┃➤ 🍃 ${usedPrefix}del*
-*│➯┃➤ 🍃 ${usedPrefix}whatmusic*
-*│➯┃➤ 🍃 ${usedPrefix}qrcode*
-*│➯┃➤ 🍃 ${usedPrefix}traducir*
+*│➯ 🍃 ${usedPrefix}clima*
+*│➯ 🍃 ${usedPrefix}afk*
+*│➯ 🍃 ${usedPrefix}ocr*
+*│➯ 🍃 ${usedPrefix}calc*
+*│➯ 🍃 ${usedPrefix}del*
+*│➯ 🍃 ${usedPrefix}whatmusic*
+*│➯ 🍃 ${usedPrefix}qrcode*
+*│➯ 🍃 ${usedPrefix}traducir*
 *╰──────────────────╯*
 
 *╭━〔 💎 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐀𝐒 💎 〕*
