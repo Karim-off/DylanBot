@@ -298,6 +298,59 @@ let menu = `⌜ *${wm}* ⌟
 *│➯ ☁️ ${usedPrefix}qc*
 *╰─────────────────╯*
 
+*╭━〔 🧩𝐑𝐀𝐍𝐃𝐎𝐌 𝐀𝐍𝐈𝐌𝐄🧩 〕*
+*│➯ 🧩 ${usedPrefix}chica*
+*│➯ 🧩 ${usedPrefix}chico*
+*│➯ 🧩 ${usedPrefix}cristianoronaldo*
+*│➯ 🧩 ${usedPrefix}messi*
+*│➯ 🧩 ${usedPrefix}meme*
+*│➯ 🧩 ${usedPrefix}meme2*
+*│➯ 🧩 ${usedPrefix}itzy*
+*│➯ 🧩 ${usedPrefix}blackpink*
+*│➯ 🧩 ${usedPrefix}kpop:exo:bts*
+*│➯ 🧩 ${usedPrefix}lolivid*
+*│➯ 🧩 ${usedPrefix}loli*
+*│➯ 🧩 ${usedPrefix}navidad*
+*│➯ 🧩 ${usedPrefix}ppcouple*
+*│➯ 🧩 ${usedPrefix}neko*
+*│➯ 🧩 ${usedPrefix}waifu*
+*│➯ 🧩 ${usedPrefix}akira*
+*│➯ 🧩 ${usedPrefix}akiyama*
+*│➯ 🧩 ${usedPrefix}anna*
+*│➯ 🧩 ${usedPrefix}asuna*
+*│➯ 🧩 ${usedPrefix}ayuzawa*
+*│➯ 🧩 ${usedPrefix}boruto*
+*│➯ 🧩 ${usedPrefix}chiho*
+*│➯ 🧩 ${usedPrefix}chitoge*
+*│➯ 🧩 ${usedPrefix}deidara*
+*│➯ 🧩 ${usedPrefix}erza*
+*│➯ 🧩 ${usedPrefix}elaina*
+*│➯ 🧩 ${usedPrefix}eba*
+*│➯ 🧩 ${usedPrefix}emilia*
+*│➯ 🧩 ${usedPrefix}hestia*
+*│➯ 🧩 ${usedPrefix}hinata*
+*│➯ 🧩 ${usedPrefix}inori*
+*│➯ 🧩 ${usedPrefix}isuzu*
+*│➯ 🧩 ${usedPrefix}itachi*
+*│➯ 🧩 ${usedPrefix}itori*
+*│➯ 🧩 ${usedPrefix}kaga*
+*│➯ 🧩 ${usedPrefix}kagura*
+*│➯ 🧩 ${usedPrefix}kaori*
+*│➯ 🧩 ${usedPrefix}keneki*
+*│➯ 🧩 ${usedPrefix}kotori*
+*│➯ 🧩 ${usedPrefix}kurumi*
+*│➯ 🧩 ${usedPrefix}madara*
+*│➯ 🧩 ${usedPrefix}mikasa*
+*│➯ 🧩 ${usedPrefix}miku*
+*│➯ 🧩 ${usedPrefix}minato*
+*│➯ 🧩 ${usedPrefix}naruto*
+*│➯ 🧩 ${usedPrefix}nezuko*
+*│➯ 🧩 ${usedPrefix}sagiri*
+*│➯ 🧩 ${usedPrefix}sasuke*
+*│➯ 🧩 ${usedPrefix}sakura*
+*│➯ 🧩 ${usedPrefix}cosplay*
+*╰─────────────────╯*
+
 DYLAN BOT || KARIM X DYLAN`.trim()
 //conn.sendFile(m.chat, pp, 'lp.jpg', menu, m, false, { contextInfo: { mentionedJid }})
 let img = await (await fetch(`https://telegra.ph/file/b9768737c2e193587ad45.jpg`)).buffer()  
