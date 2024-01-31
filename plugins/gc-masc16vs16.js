@@ -29,12 +29,12 @@ teks += `ㅤ
 │ㅤ🐼• 
 │ㅤ🐼• 
 │ㅤ🐼•
-│   𝙴𝚀𝚄𝙸𝙿𝙾 𝟸
+│   𝙴𝚀𝚄𝙸𝙿𝙾 𝟹
 │ㅤ🐼• 
 │ㅤ🐼• 
 │ㅤ🐼• 
 │ㅤ🐼•
-│   𝙴𝚀𝚄𝙸𝙿𝙾 𝟸
+│   𝙴𝚀𝚄𝙸𝙿𝙾 𝟺
 │ㅤ🐼• 
 │ㅤ🐼• 
 │ㅤ🐼• 
@@ -50,9 +50,9 @@ teks += `ㅤ
 ╰───────────────๑ •`
 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
 }
-handler.help = ['smsm8vs8 <mesaje>','mapa8vs8 <mesaje>']
+handler.help = ['smsmasc16vs16 <mesaje>','masc16vs16 <mesaje>']
 handler.tags = ['group']
-handler.command = /^(smsm8vs8|mapa8vs8)$/i
+handler.command = /^(smsmasc16vs16|masc16vs16)$/i
 handler.admin = true
 handler.group = true
 export default handler
