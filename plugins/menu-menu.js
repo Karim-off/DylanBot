@@ -97,6 +97,7 @@ let menu = `⌜ *${wm}* ⌟
 *│➯ ⚔️ ${usedPrefix}feminfinito18*
 *│➯ ⚔️ ${usedPrefix}feminfinito20*
 *│➯ ⚔️ ${usedPrefix}feminfinito22*
+*│➯ ⚔️ ${usedPrefix}feminfinitovs*
 
 *╭━〔 🎮 𝐉𝐔𝐄𝐆𝐎𝐒 🎮 〕*
 *│➯ 🕹️ ${usedPrefix}mates*
