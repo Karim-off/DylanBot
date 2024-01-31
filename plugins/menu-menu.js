@@ -106,6 +106,27 @@ let menu = `⌜ *${wm}* ⌟
 *│➯ ⚔️ ${usedPrefix}femvivido22*
 *│➯ ⚔️ ${usedPrefix}femvivido00*
 *│➯ ⚔️ ${usedPrefix}femvividovs*
+*│➯ ⚔️ ${usedPrefix}fem8vs8*
+*│➯ ⚔️ ${usedPrefix}fem16vs16*
+*╰─────────────────╯*
+
+*╭━〔 ⚔️ 𝐋𝐈𝐒𝐓𝐀𝐒 𝐕𝐒 𝐌𝐀𝐒𝐂 ⚔️ 〕*
+*│➯ ⚔️ ${usedPrefix}mascinfinito14*
+*│➯ ⚔️ ${usedPrefix}mascinfinito16*
+*│➯ ⚔️ ${usedPrefix}mascinfinito18*
+*│➯ ⚔️ ${usedPrefix}mascinfinito20*
+*│➯ ⚔️ ${usedPrefix}mascinfinito22*
+*│➯ ⚔️ ${usedPrefix}mascinfinito00*
+*│➯ ⚔️ ${usedPrefix}mascinfinitovs*
+*│➯ ⚔️ ${usedPrefix}mascvivido14*
+*│➯ ⚔️ ${usedPrefix}mascvivido16*
+*│➯ ⚔️ ${usedPrefix}mascvivido18*
+*│➯ ⚔️ ${usedPrefix}mascvivido20*
+*│➯ ⚔️ ${usedPrefix}mascvivido22*
+*│➯ ⚔️ ${usedPrefix}mascvivido00*
+*│➯ ⚔️ ${usedPrefix}mascvividovs*
+*│➯ ⚔️ ${usedPrefix}masc8vs8*
+*│➯ ⚔️ ${usedPrefix}masc16vs16*
 *╰─────────────────╯*
 
 *╭━〔 🎮 𝐉𝐔𝐄𝐆𝐎𝐒 🎮 〕*
@@ -158,124 +179,124 @@ let menu = `⌜ *${wm}* ⌟
 *╰─────────────────╯*
 
  ╭━〔 ⚠️ *FREE FIRE* ⚠️ 〕
-*┃➤ 🗺️ ${usedPrefix}bermuda*
-*┃➤ 🗺️ ${usedPrefix}kalahari*
-*┃➤ 🗺️ ${usedPrefix}alpes*
-*┃➤ 🗺️ ${usedPrefix}purgatorio*
-*┃➤ 🗺️ ${usedPrefix}nexterra*
- ╰━━━━━━━━━━━━
+*│➯ 🗺️ ${usedPrefix}bermuda*
+*│➯ 🗺️ ${usedPrefix}kalahari*
+*│➯ 🗺️ ${usedPrefix}alpes*
+*│➯ 🗺️ ${usedPrefix}purgatorio*
+*│➯ 🗺️ ${usedPrefix}nexterra*
+*╰──────────────────╯*
 
  ╭━〔 🧿 𝐆𝐄𝐍𝐄𝐑𝐀 𝐏𝐋𝐀𝐓𝐀𝐅𝐎𝐑𝐌𝐀𝐒 🧿 〕
-*┃➤ 🌐 ${usedPrefix}cuentas*
- ╰━━━━━━━━━━━━
+*│➯ 🌐 ${usedPrefix}cuentas*
+*╰─────────────────╯*
 
  ╭━〔 👾 𝐆𝐑𝐔𝐏𝐎 𝐃𝐄 𝐒𝐎𝐑𝐓𝐄𝐎𝐒 👾 〕
-*┃➤ ⭐ ${usedPrefix}sorteo*
-*┃➤ ⭐ ${usedPrefix}ruleta*
-*┃➤ ⭐ ${usedPrefix}deathnote*
- ╰━━━━━━━━━━━━
+*│➯ ⭐ ${usedPrefix}sorteo*
+*│➯ ⭐ ${usedPrefix}ruleta*
+*│➯ ⭐ ${usedPrefix}deathnote*
+*╰─────────────────╯*
 
  ╭━〔 ⚙️ 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐎 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑 ⚙️ 〕
-*┃➤ 🟢 ${usedPrefix}enable*
-*┃➤ 🔴 ${usedPrefix}disable*
- ╰━━━━━━━━━━━━
+*│➯ 🟢 ${usedPrefix}enable*
+*│➯ 🔴 ${usedPrefix}disable*
+*╰─────────────────╯*
 
  ╭━〔 🈴 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 🈴 〕
-*┃➤ 📥 ${usedPrefix}play*
-*┃➤ 📥 ${usedPrefix}play.1*
-*┃➤ 📥 ${usedPrefix}play.2*
-*┃➤ 📥 ${usedPrefix}playlist*
-*┃➤ 📥 ${usedPrefix}spotify*
-*┃➤ 📥 ${usedPrefix}spotifydl*
-*┃➤ 📥 ${usedPrefix}tiktok*
-*┃➤ 📥 ${usedPrefix}instagram*
-*┃➤ 📥 ${usedPrefix}mediafire*
-*┃➤ 📥 ${usedPrefix}gdrive*
-*┃➤ 📥 ${usedPrefix}twitter*
-*┃➤ 📥 ${usedPrefix}ytmp3*
-*┃➤ 📥 ${usedPrefix}ytmp4*
-*┃➤ 📥 ${usedPrefix}imagen*
-*┃➤ 📥 ${usedPrefix}iaimagen*
-*┃➤ 📥 ${usedPrefix}pinteres*
-*┃➤ 📥 ${usedPrefix}igstory*
- ╰━━━━━━━━━━━━
+*│➯ 📥 ${usedPrefix}play*
+*│➯ 📥 ${usedPrefix}play.1*
+*│➯ 📥 ${usedPrefix}play.2*
+*│➯ 📥 ${usedPrefix}playlist*
+*│➯ 📥 ${usedPrefix}spotify*
+*│➯ 📥 ${usedPrefix}spotifydl*
+*│➯ 📥 ${usedPrefix}tiktok*
+*│➯ 📥 ${usedPrefix}instagram*
+*│➯ 📥 ${usedPrefix}mediafire*
+*│➯ 📥 ${usedPrefix}gdrive*
+*│➯ 📥 ${usedPrefix}twitter*
+*│➯ 📥 ${usedPrefix}ytmp3*
+*│➯ 📥 ${usedPrefix}ytmp4*
+*│➯ 📥 ${usedPrefix}imagen*
+*│➯ 📥 ${usedPrefix}iaimagen*
+*│➯ 📥 ${usedPrefix}pinteres*
+*│➯ 📥 ${usedPrefix}igstory*
+*╰─────────────────╯*
 
  ╭━〔 ❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 ❄️〕
-*┃➤ 👥 ${usedPrefix}kick*
-*┃➤ 👥 ${usedPrefix}grupo*
-*┃➤ 👥 ${usedPrefix}promote*
-*┃➤ 👥 ${usedPrefix}demote*
-*┃➤ 👥 ${usedPrefix}demote*
-*┃➤ 👥 ${usedPrefix}link*
-*┃➤ 👥 ${usedPrefix}invocar*
-*┃➤ 👥 ${usedPrefix}setwelcome*
-*┃➤ 👥 ${usedPrefix}setbye*
-*┃➤ 👥 ${usedPrefix}hidetag*
-*┃➤ 👥 ${usedPrefix}fantasmas*
-*┃➤ 👥 ${usedPrefix}kickfantasmas*
- ╰━━━━━━━━━━━━
+*│➯ 👥 ${usedPrefix}kick*
+*│➯ 👥 ${usedPrefix}grupo*
+*│➯ 👥 ${usedPrefix}promote*
+*│➯ 👥 ${usedPrefix}demote*
+*│➯ 👥 ${usedPrefix}demote*
+*│➯ 👥 ${usedPrefix}link*
+*│➯ 👥 ${usedPrefix}invocar*
+*│➯ 👥 ${usedPrefix}setwelcome*
+*│➯ 👥 ${usedPrefix}setbye*
+*│➯ 👥 ${usedPrefix}hidetag*
+*│➯ 👥 ${usedPrefix}fantasmas*
+*│➯ 👥 ${usedPrefix}kickfantasmas*
+*╰─────────────────╯*
 
 *╭━〔 👀 𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒 👀 〕*
-*┃➤ 📍 ${usedPrefix}toimg*
-*┃➤ 📍 ${usedPrefix}tomp3*
-*┃➤ 📍 ${usedPrefix}toptt*
-*┃➤ 📍 ${usedPrefix}tovideo*
-*┃➤ 📍 ${usedPrefix}tts*
- ╰━━━━━━━━━━━━
+*│➯ 📍 ${usedPrefix}toimg*
+*│➯ 📍 ${usedPrefix}tomp3*
+*│➯ 📍 ${usedPrefix}toptt*
+*│➯ 📍 ${usedPrefix}tovideo*
+*│➯ 📍 ${usedPrefix}tts*
+*╰──────────────────╯*
 
 *╭━〔 ♓ 𝐄𝐅𝐄𝐂𝐓𝐎𝐒 𝐘 𝐋𝐎𝐆𝐎𝐒 ♓ 〕*
-*┃➤ ❄️ ${usedPrefix}mensajefalso*
-*┃➤ ❄️ ${usedPrefix}logos*
-*┃➤ ❄️ ${usedPrefix}logocorazon*
-*┃➤ ❄️ ${usedPrefix}ytcomment*
-*┃➤ ❄️ ${usedPrefix}hornycard*
-*┃➤ ❄️ ${usedPrefix}itssostupid*
-*┃➤ ❄️ ${usedPrefix}pixelar*
- ╰━━━━━━━━━━━━
+*│➯ ❄️ ${usedPrefix}mensajefalso*
+*│➯ ❄️ ${usedPrefix}logos*
+*│➯ ❄️ ${usedPrefix}logocorazon*
+*│➯ ❄️ ${usedPrefix}ytcomment*
+*│➯ ❄️ ${usedPrefix}hornycard*
+*│➯ ❄️ ${usedPrefix}itssostupid*
+*│➯ ❄️ ${usedPrefix}pixelar*
+*╰─────────────────╯*
 
 *╭━〔 💌 𝐅𝐑𝐀𝐒𝐄𝐒 𝐘 𝐓𝐄𝐗𝐓𝐎𝐒 💌〕*
-*┃➤ 🥀 ${usedPrefix}piropo*
-*┃➤ 🥀 ${usedPrefix}consejo*
-*┃➤ 🥀 ${usedPrefix}fraseromantica*
- ╰━━━━━━━━━━━━
+*│➯ 🌷 ${usedPrefix}piropo*
+*│➯ 🌷 ${usedPrefix}consejo*
+*│➯ 🌷 ${usedPrefix}fraseromantica*
+*╰──────────────────╯*
 
- ╭━〔 ✨ 𝐁𝐔𝐒𝐂𝐀𝐃𝐎𝐑𝐄𝐒 ✨  〕*
-*┃➤ 🔍 ${usedPrefix}xnxxsearch*
-*┃➤ 🔍 ${usedPrefix}google*
-*┃➤ 🔍 ${usedPrefix}letra*
-*┃➤ 🔍 ${usedPrefix}wikipedia*
-*┃➤ 🔍 ${usedPrefix}ytsearch*
-*┃➤ 🔍 ${usedPrefix}playstore*
-*┃➤ 🔍 ${usedPrefix}mercadolibre*
-*┃➤ 🔍 ${usedPrefix}pornhubsearch*
- ╰━━━━━━━━━━━━
+*╭━〔 ✨ 𝐁𝐔𝐒𝐂𝐀𝐃𝐎𝐑𝐄𝐒 ✨  〕*
+*│➯ 🔍 ${usedPrefix}xnxxsearch*
+*│➯ 🔍 ${usedPrefix}google*
+*│➯ 🔍 ${usedPrefix}letra*
+*│➯ 🔍 ${usedPrefix}wikipedia*
+*│➯ 🔍 ${usedPrefix}ytsearch*
+*│➯ 🔍 ${usedPrefix}playstore*
+*│➯ 🔍 ${usedPrefix}mercadolibre*
+*│➯ 🔍 ${usedPrefix}pornhubsearch*
+*╰─────────────────╯*
 
- ╭━〔 🌝 𝐇𝐄𝐑𝐑𝐀𝐌𝐈𝐄𝐍𝐓𝐀𝐒 🌝 〕
-*┃➤ 🍃 ${usedPrefix}clima*
-*┃➤ 🍃 ${usedPrefix}afk*
-*┃➤ 🍃 ${usedPrefix}ocr*
-*┃➤ 🍃 ${usedPrefix}calc*
-*┃➤ 🍃 ${usedPrefix}del*
-*┃➤ 🍃 ${usedPrefix}whatmusic*
-*┃➤ 🍃 ${usedPrefix}qrcode*
-*┃➤ 🍃 ${usedPrefix}traducir*
- ╰━━━━━━━━━━━━
+*╭━〔 🌝 𝐇𝐄𝐑𝐑𝐀𝐌𝐈𝐄𝐍𝐓𝐀𝐒 🌝 〕
+*│➯┃➤ 🍃 ${usedPrefix}clima*
+*│➯┃➤ 🍃 ${usedPrefix}afk*
+*│➯┃➤ 🍃 ${usedPrefix}ocr*
+*│➯┃➤ 🍃 ${usedPrefix}calc*
+*│➯┃➤ 🍃 ${usedPrefix}del*
+*│➯┃➤ 🍃 ${usedPrefix}whatmusic*
+*│➯┃➤ 🍃 ${usedPrefix}qrcode*
+*│➯┃➤ 🍃 ${usedPrefix}traducir*
+*╰──────────────────╯*
 
 *╭━〔 💎 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐀𝐒 💎 〕*
-*┃➤ 🍁 ${usedPrefix}verificar*
-*┃➤ 🍁 ${usedPrefix}unreg*
-*┃➤ 🍁 ${usedPrefix}minar*
-*┃➤ 🍁 ${usedPrefix}buy*
-*┃➤ 🍁 ${usedPrefix}work*
-*┃➤ 🍁 ${usedPrefix}transfer*
- ╰━━━━━━━━━━━━
+*│➯ 🍁 ${usedPrefix}verificar*
+*│➯ 🍁 ${usedPrefix}unreg*
+*│➯ 🍁 ${usedPrefix}minar*
+*│➯ 🍁 ${usedPrefix}buy*
+*│➯ 🍁 ${usedPrefix}work*
+*│➯ 🍁 ${usedPrefix}transfer*
+*╰─────────────────╯*
 
- ╭━〔  𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 ⛅  〕
-*┃➤ ☁️ ${usedPrefix}s*
-*┃➤ ☁️ ${usedPrefix}emojimix*
-*┃➤ ☁️ ${usedPrefix}attp*
-*┃➤ ☁️ ${usedPrefix}qc*
- ╰━━━━━━━━━━━━
+*╭━〔  𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 ⛅  〕*
+*│➯ ☁️ ${usedPrefix}s*
+*│➯ ☁️ ${usedPrefix}emojimix*
+*│➯ ☁️ ${usedPrefix}attp*
+*│➯ ☁️ ${usedPrefix}qc*
+*╰─────────────────╯*
 
 DYLAN BOT || KARIM X DYLAN`.trim()
 //conn.sendFile(m.chat, pp, 'lp.jpg', menu, m, false, { contextInfo: { mentionedJid }})
