@@ -91,13 +91,22 @@ let menu = `⌜ *${wm}* ⌟
  │➯ 🧿 𝐂𝐚𝐧𝐚𝐥 : https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y
 *╰━━━━━━━━━━━━⬣*
 
-*╭━〔 ⚔️ 𝐋𝐈𝐒𝐓𝐀𝐒 𝐕𝐒 ⚔️ 〕*
+*╭━〔 ⚔️ 𝐋𝐈𝐒𝐓𝐀𝐒 𝐕𝐒 𝐅𝐄𝐌 ⚔️ 〕*
 *│➯ ⚔️ ${usedPrefix}feminfinito14*
 *│➯ ⚔️ ${usedPrefix}feminfinito16*
 *│➯ ⚔️ ${usedPrefix}feminfinito18*
 *│➯ ⚔️ ${usedPrefix}feminfinito20*
 *│➯ ⚔️ ${usedPrefix}feminfinito22*
+*│➯ ⚔️ ${usedPrefix}feminfinito00*
 *│➯ ⚔️ ${usedPrefix}feminfinitovs*
+*│➯ ⚔️ ${usedPrefix}femvivido14*
+*│➯ ⚔️ ${usedPrefix}femvivido16*
+*│➯ ⚔️ ${usedPrefix}femvivido18*
+*│➯ ⚔️ ${usedPrefix}femvivido20*
+*│➯ ⚔️ ${usedPrefix}femvivido22*
+*│➯ ⚔️ ${usedPrefix}femvivido00*
+*│➯ ⚔️ ${usedPrefix}femvividovs*
+*╰─────────────────╯*
 
 *╭━〔 🎮 𝐉𝐔𝐄𝐆𝐎𝐒 🎮 〕*
 *│➯ 🕹️ ${usedPrefix}mates*
