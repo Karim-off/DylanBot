@@ -1,36 +1,96 @@
+import fs from 'fs'
 import fetch from 'node-fetch'
-let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems }) => {
-try {
-await m.reply(`╭「 𝐃𝐘𝐋𝐀𝐍 𝐁𝐎𝐓 」\n│➯(♦️)*Hola estás en el menú+18 elige una opción y pide una imagen*\n╰───────────────╯\n\n\n╭「 𝐃𝐘𝐋𝐀𝐍 𝐁𝐎𝐓 」\n│➯(♦️)*Hello you are in the menu+18 choose an option and ask for an image*\n╰───────────────╯`)
-let pp = imagen4
-let img = await(await fetch('https://i.imgur.com/JP52fdP.jpg')).buffer()
+import { xpRange } from '../lib/levelling.js'
+const { levelling } = '../lib/levelling.js'
+import PhoneNumber from 'awesome-phonenumber'
+import { promises } from 'fs'
+import { join } from 'path'
+let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, command }) => {
+try {        
+let vn = './media/menu.mp3'
+let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.json')).catch(_ => ({}))) || {}
+let { exp, limit, level, role } = global.db.data.users[m.sender]
+let { min, xp, max } = xpRange(level, global.multiplier)
+let name = await conn.getName(m.sender)
 let d = new Date(new Date + 3600000)
 let locale = 'es'
+let weton = ['Pahing', 'Pon', 'Wage', 'Kliwon', 'Legi'][Math.floor(d / 84600000) % 5]
 let week = d.toLocaleDateString(locale, { weekday: 'long' })
-let date = d.toLocaleDateString(locale, { day: 'numeric', month: 'long', year: 'numeric' })
+let date = d.toLocaleDateString(locale, {
+day: 'numeric',
+month: 'long',
+year: 'numeric'
+})
+let dateIslamic = Intl.DateTimeFormat(locale + '-TN-u-ca-islamic', {
+day: 'numeric',
+month: 'long',
+year: 'numeric'
+}).format(d)
+let time = d.toLocaleTimeString(locale, {
+hour: 'numeric',
+minute: 'numeric',
+second: 'numeric'
+})
 let _uptime = process.uptime() * 1000
-let uptime = clockString(_uptime)
-let user = global.db.data.users[m.sender]
+let _muptime
+if (process.send) {
+process.send('uptime')
+_muptime = await new Promise(resolve => {
+process.once('message', resolve)
+setTimeout(resolve, 1000)
+}) * 1000
+}
 let { money, joincount } = global.db.data.users[m.sender]
-let { exp, limit, level, role } = global.db.data.users[m.sender]
-let rtotalreg = Object.values(global.db.data.users).filter(user => user.registered == true).length 
-let more = String.fromCharCode(8206)
-let readMore = more.repeat(850)   
+let user = global.db.data.users[m.sender]
+let muptime = clockString(_muptime)
+let uptime = clockString(_uptime)
+let totalreg = Object.keys(global.db.data.users).length
+let rtotalreg = Object.values(global.db.data.users).filter(user => user.registered == true).length
+let replace = {
+'%': '%',
+p: _p, uptime, muptime,
+me: conn.getName(conn.user.jid),
+npmname: _package.name,
+npmdesc: _package.description,
+version: _package.version,
+exp: exp - min,
+maxexp: xp,
+totalexp: exp,
+xp4levelup: max - exp,
+github: _package.homepage ? _package.homepage.url || _package.homepage : '[unknown github url]',
+level, limit, name, weton, week, date, dateIslamic, time, totalreg, rtotalreg, role,
+readmore: readMore
+}
+text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
+//let user = global.db.data.users[m.sender]
+//user.registered = false
+let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
+let mentionedJid = [who]
+let username = conn.getName(who)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭━━━━━━━━━━━━━━━━╾•
-┣▢ ❤𝐇𝐎𝐋𝐀, ${username}❤
-┣━━━━━━━━━━━━━━━━╾• 
-┃  ❍ (𝐌𝐄𝐍𝐔🔞) ❍* 
-┣━━━━━━━━━━━━━━━━╾•  
-┃⋄➯𝗛ᴏʟᴀ,➟${taguser}
-┃⋄➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Karim.dzn
-┃⋄➯ *𝙸𝙽𝙵𝙾: Wa.me/59176181985
-╰━━━━━━━━━━━━━━━━╾• 
-🍁᭢━━━━━━━━━᭥🍁᭢
-╭「 𝐃𝐘𝐋𝐀𝐍 𝐁𝐎𝐓 」
-│➯*Menu*+18*
-︎╰───────────────╯
-🍁᭢━━━━━━━━━᭥🍁᭢
+//let enlace = { contextInfo: { externalAdReply: {title: wm, body: 'support group' , sourceUrl: nna, thumbnail: await(await fetch(img)).buffer() }}}
+  let pp = './Menu2.jpg'
+//let pp = gataVidMenu.getRandom()
+await conn.sendMessage(m.chat, {
+        text: `*Hey @${m.sender.split`@`[0]} estamos enviando el menu +18🥵*
+𝘁𝗲𝗻 𝗽𝗮𝗰𝗶𝗲𝗻𝗰𝗶𝗮 𝘆 𝗲𝘃𝗶𝘁𝗮 𝗲𝗹 𝘀𝗽𝗮𝗺 👀
+
+𝘿𝙮𝙡𝙖𝙣𝘽𝙤𝙩-𝙈𝘿.`,
+        contextInfo: { 
+          mentionedJid: [m.sender],
+        }
+      }, { quoted: m })
+
+let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
+
+let menu = `⌜ *${wm}* ⌟  
+
+*╭━〔  𝐌𝐄𝐍𝐔 🔞   〕⬣
+ ┃➤ 👤 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 : Karim
+ ┃➤ 👤 𝐒𝐨𝐩𝐨𝐫𝐭𝐞 : Karim
+ ┃➤ 🧿 𝐂𝐚𝐧𝐚𝐥 : https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y
+*╰━━━━━━━━━━━━⬣*
+
 ╭─「➻❥ *Hentai+* 18➻❥」
 │➯ *.nsfwloli*
 │➯ *.nsfwfoot*
@@ -60,23 +120,40 @@ let str = `╭━━━━━━━━━━━━━━━━╾•
 │➯ *.porno*
 │➯ *.randomxxx*
 │➯⫷᭄©𝙳𝚈𝙻𝙰𝙽𝙱𝙾𝚃✍
-︎╰───────────────╯`.trim()
-if (m.isGroup) {
-//await conn.sendFile(m.chat, vn, 'Darling.mp3', null, m, true, { type: 'audioMessage', ptt: true})
-let fkontak2 = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nite𝙰𝙳𝚁𝙸𝙴𝙻-𝙱𝙾𝚃-𝙼𝙳m1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }  
-conn.sendMessage(m.chat, { image: pp, caption: str.trim(), mentions: [...str.matchAll(/@([0-9]{5,16}|0)/g)].map(v => v[1] + '@s.whatsapp.net')}, { quoted: fkontak2 })  
-} else {    
-//await conn.sendFile(m.chat, vn, 'Darling.mp3', null, m, true, { type: 'audioMessage', ptt: true})
-let fkontak2 = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }  
-conn.sendMessage(m.chat, { image: pp, caption: str.trim(), mentions: [...str.matchAll(/@([0-9]{5,16}|0)/g)].map(v => v[1] + '@s.whatsapp.net')}, { quoted: fkontak2 })}
-} catch {
-conn.reply(m.chat, '*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 𝙼𝙴𝙽𝚄 𝚃𝙸𝙴𝙽𝙴 𝚄𝙽 𝙴𝚁𝚁𝙾𝚁 𝚈 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙴𝙽𝚅𝙸𝙰𝚁𝙻𝙾, 𝚁𝙴𝙿𝙾𝚁𝚃𝙴𝙻𝙾 𝙰𝙻 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃*', m)
+︎╰───────────────╯
+
+DYLAN BOT || KARIM X DYLAN`.trim()
+//conn.sendFile(m.chat, pp, 'lp.jpg', menu, m, false, { contextInfo: { mentionedJid }})
+let img = await (await fetch(`https://telegra.ph/file/4eac67fd7c44379ef38a2.jpg`)).buffer()  
+await conn.sendMessage(m.chat, {
+text: menu,
+contextInfo: { 
+mentionedJid: [m.sender],
+forwardingScore: 9, 
+externalAdReply: {
+title: '❑— 𝘿𝙮𝙡𝙖𝙣𝘽𝙤𝙩-𝙈𝘿 —❑\nWʜᴀᴛꜱᴀᴘᴘ Bᴏᴛ - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ',
+//body: 'Wʜᴀᴛꜱᴀᴘᴘ Bᴏᴛ - Mᴜʟᴛɪ Dᴇᴠɪᴄᴇ',
+thumbnail: img,
+sourceUrl: 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6',
+mediaType: 1,
+renderLargerThumbnail: true
+}}}, { quoted: m})
+await m.react('✅')        
+} catch (e) {
+//await conn.sendButton(m.chat, `\n${wm}`, lenguajeGB['smsMalError3']() + '#report ' + usedPrefix + command, null, [[lenguajeGB.smsMensError1(), `#reporte ${lenguajeGB['smsMensError2']()} *${usedPrefix + command}*`]], m)
+console.log(`❗❗ ${lenguajeGB['smsMensError2']()} ${usedPrefix + command} ❗❗`)
+console.log(e)        
 }}
-handler.command = /^(labiblia|Labiblia|menú+18|menu+18)$/i
+handler.help = ['menu', 'help', '?']
+handler.tags = ['main']
+handler.command = /^(menú+18|menu+18|menúhorny|menuhorny|allm\?)$/i
+//handler.register = true
 handler.exp = 50
 handler.fail = null
-handler.register = true
 export default handler
+
+const more = String.fromCharCode(8206)
+const readMore = more.repeat(4001)
 function clockString(ms) {
 let h = isNaN(ms) ? '--' : Math.floor(ms / 3600000)
 let m = isNaN(ms) ? '--' : Math.floor(ms / 60000) % 60
