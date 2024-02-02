@@ -13,7 +13,7 @@ handler.level = 1
 export default handler
 
 
-global.pene = [
+global.tetas = [
 "https://cdn.discordapp.com/attachments/1202339620939898981/1202787780850360411/IMG-20240201-WA0141.png",
 "https://cdn.discordapp.com/attachments/1202339620939898981/1202787789675171890/IMG-20240201-WA0140.png",
 "https://cdn.discordapp.com/attachments/1202339620939898981/1202787797199491172/IMG-20240201-WA0137.png",
