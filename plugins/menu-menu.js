@@ -351,9 +351,9 @@ let menu = `⌜ *${wm}* ⌟
 *│➯ 🧩 ${usedPrefix}cosplay*
 *╰─────────────────╯*
 
-DYLAN BOT || KARIM X DYLAN`.trim()
+DYLAN BOT || KARIM.DZN`.trim()
 //conn.sendFile(m.chat, pp, 'lp.jpg', menu, m, false, { contextInfo: { mentionedJid }})
-let img = await (await fetch(`https://telegra.ph/file/2beb82330be9e795dea98.jpg`)).buffer()  
+let img = await (await fetch(`https://cdn.discordapp.com/attachments/1202339620939898981/1203018213881806938/Menu1.jpg`)).buffer()  
 await conn.sendMessage(m.chat, {
 text: menu,
 contextInfo: { 
