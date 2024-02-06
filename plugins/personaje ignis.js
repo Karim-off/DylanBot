@@ -36,7 +36,7 @@ global.db.data.users[m.sender].lastcofre = new Date * 1
 }
 handler.help = ['daily']
 handler.tags = ['xp']
-handler.command = ['agendasemanal', 'agenda', 'agendasemanal'] 
+handler.command = ['personajeignis', 'ignisff', 'ignisfreefire'] 
 handler.register = true
 export default handler
 
