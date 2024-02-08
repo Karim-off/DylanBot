@@ -17,7 +17,7 @@ say('The Dylan\nBot\nMD', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Por karimxdaniel`, {
+say(`BY: karim.Desing`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']});
