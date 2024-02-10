@@ -99,18 +99,18 @@ global.author = 'By Karim x Dylan'
 
 global.lb = '𝘿𝙮𝙡𝙖𝙣𝘽𝙤𝙩-𝙈𝘿'
 global.vs = '1.5.5'
-global.yt = 'https://whatsapp.com/channel/0029VaJWkYrGufIqnI1OAr2n'
-global.ig = 'https://www.instagram.com/usxr._.karim/'
-global.md = 'https://whatsapp.com/channel/0029VaJWkYrGufIqnI1OAr2n'
-global.fb = 'https://whatsapp.com/channel/0029VaJWkYrGufIqnI1OAr2n'
+global.yt = 'https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y'
+global.ig = 'https://www.instagram.com/usxr_karim/'
+global.md = 'https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y'
+global.fb = 'https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y'
 
-global.nna = 'https://whatsapp.com/channel/0029VaJWkYrGufIqnI1OAr2n' //Actualización, información sobre el bot
+global.nna = 'https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y' //Actualización, información sobre el bot
 global.nn = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6' //Grupo 1
 global.nnn = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6' //Grupo 2
 global.nnnt = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6' //Grupo del Colaboracion
 global.nnnt2 = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6' // Grupo COL 2
 global.nnntt = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6' //Grupo COL 3
-global.nnnttt = 'https://whatsapp.com/channel/0029VaJWkYrGufIqnI1OAr2n' //Canal DylanBot
+global.nnnttt = 'https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y' //Canal Karim-MD
 global.nnntttt = 'https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6' //Grupo ayuda sobre el bot
 global.asistencia = 'wa.me/59176181985' //Dudas? escríbeme...
 
