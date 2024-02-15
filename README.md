@@ -61,26 +61,10 @@
 
 ## <img src="https://i.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif" alt="Instalacion" width="40" height="40"> Instalación en [termux](https://f-droid.org/repo/com.termux_118.apk)
 
-```bash
-cd && termux-setup-storage
-```
 
 ```bash
-apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
+No disponible para uso personal 
 ```
-
-```bash
-git clone https://github.com/Karim-off/DylanBot && cd DylanBot
-```
-
-```bash
-yarn install
-```
-
-```bash
-npm start
-```
-
 - Después de eso te aparecerά un código **QR** lo escaneas con el Whatsapp web y listo
 
 ---------
