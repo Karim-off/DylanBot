@@ -1157,9 +1157,9 @@ const messageNumber = user.bannedMessageCount + 1;
 const messageText = `⚠️ ESTAS BANEADO ⚠️\nAviso (${messageNumber}/3) ${user.bannedReason ? `\n*Motivo:* ${user.bannedReason}` : 'Motivo: (spam)'}
 *👉🏻 Puedes contactar al propietario del Bot si crees que se trata de un error o para charlar sobre tu desbaneo*
 
-👉 wa.me/5492266466080
-👉 Wa.me/573026191480
-👉 wa.me/595992302861`.trim();
+👉 wa.me/59168683798
+👉 Wa.me/59168683798
+👉 wa.me/59168683798`.trim();
 m.reply(messageText);
 user.bannedMessageCount++;
 } else if (user.bannedMessageCount === 3) {
