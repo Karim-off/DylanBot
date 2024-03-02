@@ -23,7 +23,7 @@ let handler = (m, { usedPrefix, command, text }) => {
 handler.help = ['zodiac *2002 02 25*']
 handler.tags = ['General']
 
-handler.command = /^zodia[kc]$/i
+handler.command = /^zodiac[kc]$/i
 
 export default handler
 
